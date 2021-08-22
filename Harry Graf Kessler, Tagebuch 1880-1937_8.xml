@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="260833">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49056">Ems</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-06-26">26.6.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>26.6.1880 Samstag</head>
+            <p>
+               <placeName type="write" key="49056">Ems</placeName> 26 June 1880 Sun
+      rises 3,46 sets 8,19</p>
+            <p>This morning as I do not go out with <persName key="176">Papa</persName> I go out with
+     <persName key="104">Bee</persName> and
+      nurse<note type="com">vermutl. <persName key="537">Sophie</persName>
+               </note> We go on the <placeName key="49058">Nassau</placeName>
+      road as far as <placeName key="49062">Dausenau</placeName> village which quite
+      merits its dowdy name for the grown up inhabitants look as if they had smoked
+      opium the whole night. For the rest <placeName key="49062">Dausenau</placeName>
+      at first view seems a very unhospitable village for in the streets you see
+      nothing but dogs barking, hens chuckling and children screaming at you, one
+      must here remark that as much the grownups seem sleepy and quiet, as much the
+      children look awake and noisy. The village is composed of two
+      towers of which one is as crookid as a rams horn, an <placeName key="80557">old church</placeName> four or five restaurants and about forty houses
+      which seem to be as well ment for people as for cows probably they all sleep
+      together cows, pigs, people hens and dogs The perfume in the streets coming
+      from the cow sheds or rather cow houses may be healthy but certainly is not
+      flattering to the nose and the streets, or rather the street does not seem ever
+      to have seen water and they would allmost want a second Herkules to cleanse
+      them. Today <persName key="431">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi>
+      Maxheimer</persName> sends word he cannot come</p>
+         </div>
+      </body>
+   </text>
+</TEI>

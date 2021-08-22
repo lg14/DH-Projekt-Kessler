@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="275847">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49096">Paris</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-01-15">15.1.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>15.1.1881 Samstag</head>
+            <p>
+               <placeName type="write" key="49096">Paris</placeName> 15 January
+      1881 Saturday</p>
+            <p>We went to the <placeName key="56724">catacombes</placeName> today. Everybody has got a
+      light and the descent begins, we go down 80 steps and penetrate into a long
+      corridor chiselled out of the rock, everybody laughing and talking and joking
+      but as we come in sight of an enormous black porch with bone on bone scull next
+      to scull and an inscription of which I can only remember the beginning:
+      &#x201e;<foreign n="fr">Ils furent ce que nous sommes, poussierre de la terre, jouet de vents
+         .............</foreign>&#x201c; everybody stops one feels that one is in the vestibule of
+      death we go through the porch and on the other side nothing but bones and
+      sculls in these six words one can explain all the <placeName key="56724">catacombes</placeName>. Here and there some very pretty inscriptions such
+               as &#x201e;<foreign n="fr">Homme n&#x2019;oublié pas que tu dois mourir</foreign>&#x201c; and
+      others here and there passages like ours branching off we pass by a small kind
+      of a room where crosses are made out of scull and by pitt full of water at last
+      we come out of this dreadfull passage by another black door and porch and go
+      into another corridor under two natural &#x201e;<foreign n="fr">cloches</foreign>&#x201c; or bells formed
+      by the earth falling down after some time we come to a staircase and we got out
+      at last after having mounted the same number of steps as before, &#x201e;<foreign n="fr">des
+         cranes, des cranes et encore des cranes</foreign>&#x201c; ought to be the inscription on
+      it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

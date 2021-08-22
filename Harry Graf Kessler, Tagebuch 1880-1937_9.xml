@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="280860">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49056">Ems</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-06-27">27.6.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>27.6.1880 Sonntag</head>
+            <p>
+               <placeName type="write" key="49056">Ems</placeName> Sunday 27 June
+      1880 Sun rises 3,46 sets 8,19</p>
+            <p>Today as I am better I go out with <persName key="176">papa</persName> to go to 
+     
+                  <placeName key="80485">Kemmenau</placeName>
+               
+      The beginning of the road is very sunny but soon one has to turn to the left
+      and then one is in the forest. Soon after we turned we met a donkey and a
+      carriage then we turn to the right again and cut across a forest but out of the
+      forest we came on a stone field after we have passed the stones my foot got
+      cought in to the roots of a tree and I fell. I must before say that
+      <persName key="176">papa</persName> had lent me his
+      &#x201e;podomètre&#x201c;. We soon find a path though and go on it on
+      this path <persName key="176">papa</persName> also fell over a stone but
+      however we got to the top. Here <persName key="176">papa</persName> asked me
+      for his podomètre. I look in the pocket I had put it in, it is not there
+      I look in my other pockets, in the lining of my west on the
+      ground it is not there neither, : I had lost it where, when I do not know; when
+      all at once I rememberd I had fallen, it must be <hi rend="ul">there</hi> I
+      had lost it. Then <persName key="176">papa</persName> orders some ham and
+      wine we have diner, look at the Rhine and scenery and follow the same road we
+      had come so as to find the podomètre I look everywhere but we
+      don&#x2019;t find it. We then go down to the silverworks and mines and from
+      there home To day is the first day since we have been here that it has been
+      really fine. <persName key="536">Marie&#x2019;s</persName>
+               <persName key="18893">mother</persName>
+      arrived to day <persName key="536">Marie</persName> went to two trains before she went at
+      the right time for her <persName key="18893">mother</persName> missed
+      <placeName key="49056">Ems</placeName> and went as far as
+      <placeName key="49064">Coblenz</placeName> so of course she could not arrive at
+      the right time; she came from <placeName key="49025">Berlin </placeName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194228">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49050">London</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-08-29">29.8.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>29.8.1880 Sonntag</head>
+            <p>
+               <placeName type="write" key="49050">London</placeName> Sunday 29
+      August 1880</p>
+            <p>Today we went to <placeName key="49092">Richmond</placeName> with
+      <persName key="536">Marie</persName>, <persName key="537">Sophie</persName> and
+      <persName key="581">aunt Rose</persName> on the boat. We left old
+      Swan pier and London Bridge at three in
+      the afternoon and after passing by 
+      <placeName key="56688">Cleopatra&#x2019;s Needle</placeName>, the houses of
+      Parliament and <placeName key="56690">Westminster Abbey</placeName>,
+      Millbank prison, Kannella club and the
+      castle of the <persName key="585">Percy&#x2019;s dukes of Northumberland</persName> and
+      having been stuck in the sands six times infront of Kew
+      gardens we arrived at <placeName key="49092">Richmond</placeName> where we
+      were due at 5 at ¼ 7. One of the partys on board composed of two women
+      and one man drank before we started, drank when we started and drank when we
+      stopped The long nosed lady who was disgusted at everything and swamped down
+      everything got over the &#x201e;passerelle&#x201c; had
+      to come back over the bride Yes, she prefered stopping in the boat, coming home
+      at midnight sticking in the sands, being tortured; to risking being drowned in
+      <hi rend="ul">water</hi> her hated element had it been claret, port, gin,
+      brandy she would have gone willingly, willingly, have been drowned But alas the fat one was first of all hoisted by one
+      man on to the bench but on the passerelle four had to lift her and a fifth hold
+      her and then even she fell back, like a cask of wine which has been lifted by a
+      patent crane and whose cord has broken, and began to eject water instead of
+      wine like a cask would have done if broken, for wine was too precious for her.
+      We came back by train<note type="com">Viele Streichungen und
+        Sofortverbesserungen.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

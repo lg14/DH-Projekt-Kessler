@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194868">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-11-27">27.11.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>27.11.1880 Samstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> Saturday 27<hi rend="ul.2">
+                  <hi rend="sup">th</hi>
+               </hi> November 1880</p>
+            <p>This afternoon in coming in from digging <persName key="761">Hill</persName> and
+                  <persName key="675">Thompson (minor)</persName> harassed me by not letting me into
+               the lobby. I got into a terriffic rage I jumped up flew at <persName key="675">Thomson (minor)</persName> jumped on to him pale with fury, caught hold on him by
+               the scruff of his neck, pulled his hair and ears till he screamed, hacked, kicked bit
+               like an infuriated bull - then I let go my grip rushed upstairs banged my door and
+               poured forth on him every name I could possibly think of said that I would like to
+               throw him out of the window that he would murder me; Percy<note type="reg">
+                  <persName key="545">Heber-Percy</persName>
+               </note> tried to interfere I encounterd his remonstrances with a hoarse laugh at last
+                  <persName key="642">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Cook</persName> came up attracted by the row and told me not to make such a
+               noise. At last I dropped on to my bed exhausted, panting breathless my head reeling
+               with all the guilty conscience of having badly hurt somebody as I thought. To my rage
+               succeeded tears to my bad language prayer. My excitement had been too much for me I
+               was half mad, pale and hardly able to stand I left my room and went down into the
+               lybrary. If only my passion does not bring me to a bad end one day!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

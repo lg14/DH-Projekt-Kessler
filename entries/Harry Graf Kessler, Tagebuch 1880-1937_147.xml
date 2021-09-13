@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274526">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-08-01">1.8.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.8.1881 Montag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> August 1<hi rend="ul.2">
+                  <hi rend="sup">rst</hi>
+               </hi> 1881 Monday</p>
+            <p>The prizes were given today few people came and those who did come were almost
+                    all from the neighbourhood. I got an extra Scripture prize for only being 3
+                    marks of <persName key="894">Oliver</persName> who got the first Scripture
+                    prize. I also got a French prize. <persName key="913">Thomson ma.</persName> got
+                        1<hi rend="ul.2">
+                  <hi rend="sup">rs</hi>
+               </hi> div total work prize very fine <persName key="8407">Shakespeare</persName>
+            </p>
+            <p>
+               <note type="com">Hier ist wieder der Bericht des Examinators eingeklebt. Es
+                        folgt die Abschrift. Formatierungen wurden nicht alle übernommen. Auf dem
+                        Blatt steht in Kesslers Hand: &#x201e;Report read by <persName key="857">M<hi rend="ul.2">
+                        <hi rend="sup">r</hi>
+                     </hi> Macdonald</persName> at the
+                        prizes&#x201c;.</note>
+            </p>
+            <p>
+               <orgName key="69740">S. George&#x2019;s School</orgName>, <placeName key="49097">Ascot</placeName>
+            </p>
+            <p>--- TRIALS, JULY, 1881. --- </p>
+            <p>Report of the Examiner, Rev. <persName key="857">F. W. Macdonald</persName>,
+                    M.A., <orgName key="70036">Queen&#x2019;s College</orgName>, <placeName key="49586">Oxford</placeName>. </p>
+            <p> On this my second Examination of this School, I am glad to find that the
+                    Standard of Work has in no respect deteriorated, while improvement has been made
+                    in those subjects which I considered last Trials to be weaker than the rest. </p>
+            <p>I have again been impressed with the level character of the work, and the great
+                    neatness with which the papers have been answered.</p>
+            <p>With regard to English: &#x2013; in the Scripture which was a difficult paper. <persName key="894">Olliver</persName>, Count Kessler,
+                        <persName key="778">Lord Uffington</persName>, and <persName key="547">Palk</persName> were particularly good, <persName key="681">Bald</persName>, on the other hand has not improved in this respect. In History
+                    and Geography, <persName key="913">Thomson, ma.</persName>, <persName key="675">Thomson, mi.</persName>, and <persName key="679">Sellon</persName> deserve high
+                    praise; dates however must be in the future more carefully got up. I was also
+                    struck with the improvement in Essay Writing particularly noticeable in
+                    Divisions 2 and 4. </p>
+            <p>In Classical Work, Division I. show a distinct improvement in Greek Translation
+                    and Greek Grammar, <persName key="913">Thomson, ma.</persName> in the latter
+                    gaining within 7 of the full marks: the Prepositions are the weak point in this
+                    subject.</p>
+            <p>In Latin Grammar, <persName key="913">Thomson, ma.</persName> again distinguishes
+                    himself, closely followed by <persName key="693">Tomlin</persName>, whose
+                    general neatness in paper work is to be specially commended. </p>
+            <p>The Latin Translation was fairly done by all. <persName key="1020">Waterhouse&#x2019;s</persName> paper showing that he had taken great pains. </p>
+            <p>The Latin Composition was really well done throughout. <persName key="894">Olliver</persName> being preeminent.</p>
+            <p>The Unseen Translation was perhaps a little too easy; it was mastered by all the
+                    boys. </p>
+            <p>In Greek Composition, the papers were better than I expected. Thomson<note type="com">Unklar welcher, <persName key="913">Thomson, ma.</persName> oder <persName key="675">Thomson, mi.</persName>
+               </note>, <persName key="894">Olliver</persName> and <persName key="1020">Waterhouse</persName> pleased me much by their accuracy in the
+                    Grammar. </p>
+            <p>The Latin Verses throughout the School were better than those of last Trials, but
+                    there is still great room for improvement, and Division III. must pay more
+                    attention to Prosody rules.</p>
+            <p>Division II. did well in Latin Translation, notably Count
+                        Kessler, but I was more struck by the excellent way in which this
+                    Division managed their Greek Translation, a subject difficult to beginners.</p>
+            <p> In Latin Prose, more attention must be paid to the use of Prepositions. The
+                    Latin Grammar is very much improved. The Greek Grammar paper was accurately
+                    done, though weakness was shown in the declension of nouns, <persName key="681">Bald</persName> and <persName key="703">Scott</persName> are here some way
+                    behind the rest. In this Division <persName key="916">Jay</persName>, <persName key="763">Schuster</persName> and Count
+                        Kessler show great promise.</p>
+            <p>In Division III. the best work was done in the Latin Grammar Paper, which was
+                    remarkably well answered throughout, particularly by
+                    <persName key="679">Sellon</persName>.</p>
+            <p>In the Greek Grammar, more attention must be paid to the Comparison of
+                    Adjectives. <persName key="547">Palk</persName> distinguished himself in this
+                    paper.</p>
+            <p>The Latin Prose was poor. In the Latin Translation, the Unseen Passages were
+                    rather too difficult. </p>
+            <p>In Mathematics and French, the standard of the work is high, above the average.
+                    In the former subject <persName key="1113">Whittaker</persName> and <persName key="764">Wormald</persName> in their respective Sets did excellent papers,
+                    while <persName key="80902">Speer, ma.</persName>., and <persName key="1112">Mortimer, ma.</persName> must pay more attention. <persName key="693">Tomlin</persName> must be commended for his Euclid and Algebra.</p>
+            <p>In French, <persName key="1020">Waterhouse</persName> (Set.1) and Count Kessler and <persName key="80903">Pilcher</persName> (Set 2) deserve great praise.</p>
+            <p> I cannot speak too highly of these two departments, so important in these days
+                    of Modern Education.</p>
+            <p>On the whole I, consider this Examination to have evinced almost greater evenness
+                    as to the work than last Trials, there being no real failures; this is a great
+                    desideratum in a School of this size, and a sign of the pains taken with each
+                    individual boy.</p>
+            <p>(Signed)</p>
+            <p>
+               <persName key="857">F. W. MACDONALD</persName>, M.A., Oxon, Vicar of <placeName key="80772">Stapleford</placeName> and <placeName key="80773">Berwick</placeName>, Wilts.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

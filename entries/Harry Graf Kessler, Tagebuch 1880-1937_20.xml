@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194212">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49084">Pyrmont</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-07-12">12.7.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>12.7.1880 Montag</head>
+            <p>
+               <placeName type="write" key="49084">Pyrmont</placeName> 12 July
+      1880</p>
+            <p>We (<persName key="176">Papa</persName> and I) visit the
+      palace of the <persName key="562">princes of Waldeck</persName> this
+      morning. This palace is lain
+               <note type="com">Das Wort "lain" ist mit Bleistift durchgestrichen, dafür wurde "situated" gesetzt.</note>
+               in the Anlagen and
+    surrounded by a wide ditch We crossed the bridge and arrived at the great iron
+    gate which a man opened<add hand="hgk">;</add> this man told us that
+    <persName key="562">the prince of Waldeck</persName> did not live here and only very
+    rarely came even in the summer, and that he had been here the last year, but
+    not yet this year and that his residence was <placeName key="78754">Arolsten</placeName>. This
+    palace was built in 1562 and rebuilt in 1706, it sufferd
+    many sieges in the 30 years war He then took us on the walls who&#x2019;s date
+    of erection one does not know but which one thinks to be very old. On these
+    walls there is a beautyfull allee
+               <note type="com">Kessler hat nachträglich 
+      mit Bleistift zu "beautiful alley" verbessert.</note> of old trees and at
+    it&#x2019;s extremity there is an old tree which is supposed to be 700 years
+    old and who&#x2019;s branches are kept together with chains which are supposed
+    to have been put on a hundred years ago. This tree has six meters round and its
+    roots go right in to the water and have made a regular mountain of the earth.
+    It&#x2019;s branches touch the ground and spring up again like new trees so
+    that when you are under the tree you are in a regular little forest The man
+    then shewed us the bed of <persName key="563">the count of Gleichen</persName> and
+               his two wives<note type="com">Seine wirkliche Frau, <persName key="18904">Gräfin von Orlamunde</persName>, und die sarazenische <persName key="81312">Prinzessin Melechsala</persName>, die ihm das Leben gerettet haben soll.</note>, which is immensly high and big and all
+    sculpted; at each corner there is a little angel looking in to it and at one of
+    the ends there are three heads and two casks
+               
+               <note type="com">Kessler hat nachträglich 
+      mit Bleistift statt "casks" das Wort "helms" gesetzt.</note>. It is all
+    full of worms the wall of the room in which it is is all painted with views of
+    different places and there is one <name type="work" key="36677">picture</name> by <persName key="16181">Tischbein</persName> representing <persName key="563">the Count of
+    Gleichen</persName> and his two wives All the rest of the
+    furniture is made of common unpealed wood like you find on the ground in the
+    forest. Our man then shewed us an underground passage which is said to go right
+    under the waterworks; we then returned and in the afternoon went to the
+    Jägerbuche a tree somewhat like the one in the castle but only smaller.
+    From this beach there is a lovely view and one is supposed to see the
+    <name type="work" key="36413">Hermannsdenkmal</name>
+               <note type="reg">
+                  <persName key="16376">Bandel</persName>
+               </note> but we did not see the least scrap of
+    it</p>
+         </div>
+      </body>
+   </text>
+</TEI>

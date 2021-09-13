@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="149234">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49081">Im Zug</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-07-11">11.7.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>11.7.1880 Sonntag</head>
+            <p>
+               <placeName key="49081" type="write">In the train</placeName> 11 July 1880</p>
+            <p>In coming out of <placeName key="49056">Ems</placeName> we passed <placeName key="49058">Nassau</placeName> with it&#x2019;s Castle and the <persName key="8386">Stein</persName>
+               <name type="work" key="36619">denkmal</name>
+               <note type="reg">
+                  <persName key="18854">Pfuhl</persName>
+               </note>, Balduinstein a big castle in the renaissance style, <placeName key="49072">Schaumburg</placeName> and <placeName key="59879">burg Schwalbach</placeName>. At
+                  <placeName key="49074">Diez</placeName>
+               <persName key="537">Sophie</persName> who went home was met by <persName key="1543">her cousin</persName> who allways appears at all possible and impossible
+               occasions to see her. After <placeName key="49074">Diez</placeName> we came to
+                  <placeName key="49075">Limburg</placeName> with its <placeName key="56607">six
+                  towerd Dom</placeName>. The scenery was lovely something like the australian gold
+               mines and darling downs.Then we come to <placeName key="49077">Marburg</placeName>
+               where the scenery changes. <placeName key="49077">Marburg</placeName> is a pretty
+               little town with it&#x2019;s <placeName key="56683">Elisabethencirche</placeName> and it&#x2019;s
+                  <placeName key="59880">castle</placeName>: It is lain<note type="com">Das Wort
+                  "lain" ist mit Bleistift durchgestrichen, dafür wurde "situated" gesetzt.</note>
+               on a hill like a crown. From <placeName key="49077">Marburg</placeName> we pass by
+               great plains with allmost nothing growing on them but pines, poplars and grass. Just
+               before <placeName key="3476">Treysa</placeName> we have to stop before station
+               because there is something on the line We then saw the Fulda and <placeName key="56608">Wilhelmshöhe</placeName>, which one can perfectly well see from the
+               train, and directly after <placeName key="49080">Cassel</placeName> where we have 1
+               hour and 29 minutes stoppage. <persName key="176">Papa</persName>, <persName key="103">Mamma</persName> and I go in to town at <placeName key="49080">Cassel</placeName> and see the promenade with it&#x2019;s Bellevue and the barracks of
+               the Husaaren with &#x201e;<foreign n="la">Wilhelmus elector condidit</foreign>&#x201c;<note type="com">Vom Kurfürsten <persName key="80668">Wilhelm I. von Hessen</persName>
+                  erbaut.</note> written on their door. We had a luggagecarrier to take us through
+               the town. As a remark the streets are paved with pointed stones instead of being
+               paved with asphalt which luxury the promenade alone enjoys. Poor <persName key="103">Mamma</persName> got a sore foot in walking in the streets. We then pass by
+               forests and over the Egge gebirge. We in our whole journey had to change 3 times at
+                  <placeName key="49080">Cassel</placeName>, at <placeName key="49082">Warburg</placeName> and at <placeName key="49083">Altenbeken</placeName> We
+                  where<note type="com">Das h ist nachträglich mit Bleistift gestrichen.</note> two
+               minutes late.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

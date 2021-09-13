@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="148278">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-02-24">24.2.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>24.2.1884 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. February 24. 1884.
+               Sunday.</p>
+            <p>Went to <persName key="856">aunt Lulu&#x2019;s</persName> at 11½ o&#x2019;clock this morning. Eat
+               &#x201e;Heisswege&#x201c; a kind of mash of bread, melted butter, milk, sugar and cinnamon. Don&#x2019;t
+               care for them much. After breakfast went to the concert of <persName key="1244">von
+                  Bülow</persName>. He played very well. Afterwards went to the <name type="work" key="28456">Panorama of Gastein</name>
+               <note type="reg">
+                  <persName key="4383">Hertel</persName>
+               </note>. a great many little stories came into my
+               head about the time when we were in <placeName key="49008">Gastein</placeName> in
+               1876. I remember when the <persName key="10133">Emperor</persName> was going away I
+               went and stood in the passage of the house in which he lived to wish him Good-bye. I
+               was standing next to <persName key="176">Papa</persName>, <persName key="103">Mamma</persName> was in one of the drawing rooms in which the <persName key="10133">Emperor</persName> was. Presently he came out. I believe he was in
+               uniform, but am not quite sure. He first went up to <persName key="176">Papa</persName> to shake hands with him. Then he came to me and stretched out his
+               hand. I was very frightened and kept on going backwards till I came to the wall of
+               the passage without giving the <persName key="10133">Emperor</persName> my hand. In
+               fact I have generally been unlucky with the <persName key="10133">Emperor</persName>.
+               In <placeName>Ems</placeName> once I was standing with <persName key="176">Papa</persName> and <persName key="103">Mamma</persName> in the Wandelbahn. The
+                  <persName key="10133">Emperor</persName> came up and began talking with <persName key="103">Mamma</persName> and <persName key="176">Papa</persName>. We of course
+               all took off our hats, but on the <persName key="10133">Emperors</persName> putting
+               up his stick <persName key="176">Papa</persName> put on his hat again. I not noticing
+               this did not put on mine; so the <persName key="10133">Emperor</persName> kept on
+               lifting up his stick till I at last put on my hat. It was also in <placeName key="49008">Gastein</placeName> that when we had ordered different kinds of wine
+               in a Restaurant <persName key="103">Mamma</persName> noticing that the &#x201e;etiquette&#x201c; on
+               the dearer bottle of wine was still wet, and that there was no difference in the
+               tastes of the two wines asked a little boy who was serving us how it was that the
+               &#x201e;etiquette&#x201c; was still wet; he answered with perfect composure: <hi rend="dc">&#x201e;Natürlich, die ist ja auch erst eben aufgebacht.&#x201c;</hi> I am now reading
+                  <persName key="1245">Las Case&#x2019;s</persName> &#x201e;<name type="work" key="28457">Mémorial
+                  de S<hi rend="ul.2">
+                     <hi rend="sup">t</hi>
+                  </hi> Héléne</name>&#x201c;. The man&#x2019;s vanity and boasting about his disinterestedness is
+               really nauseous in some places. If it was not for this it would be an uncommonly
+               amusing and interesting book.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

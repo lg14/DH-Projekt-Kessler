@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="174967">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49313">Kopenhagen</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-23">23.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>23.5.1885 Samstag</head>
+            <p>
+               <placeName type="write" key="49313">Copenhagen</placeName>. May 23.
+      1885 Saturday</p>
+            <p>Started at 8.43. at <placeName key="49314">Neumünster</placeName>
+               <persName key="856">aunt Lulu</persName> went to the W. C and locked herself
+      in so that she could not get out. With a desperate effort she opened the door
+      and with her hatbands flying managed to get into a III Class carriage while the
+      train was already moving. At <placeName key="49315">Kiel</placeName> we took the
+      boat to <placeName key="52809">Korsör</placeName>. Very pretty passage.
+      Langeland lies to ones left all covered with forests and fields; very pretty.
+      Arrived at <placeName key="52809">Korsör</placeName> at 6. Supper there. Not
+      at all bud. In <placeName key="49313">Copenhagen</placeName> at 10.30. I managed
+      to get a porter by a pantomime as nobody understands one. Living at the
+      <orgName key="66990">Hotel d&#x2019;Angleterre</orgName> on the Kongens
+      Nytorv. Letters from <persName key="176">Papa</persName>
+               <persName key="103">Mamma</persName> and dear little
+      <persName key="104">Gee</persName> who is quite shaved and thank God better.
+      My birthday. I am 17.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

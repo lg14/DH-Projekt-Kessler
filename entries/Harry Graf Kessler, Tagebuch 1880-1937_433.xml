@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="273558">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49396">Wernigerode</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-06-05">5.6.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>5.6.1884 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49396">Wernigerode</placeName> June 5. 1884</p>
+            <p>Started from <placeName key="80103">Harzburg</placeName>
+               <note type="reg">
+                  <placeName key="80103">Bad Harzburg</placeName>
+               </note> this morning at 9.15. We rode
+               through the wood down to the Radanthal and waterfall which was not very pretty as it
+               was being repaired and very little water was coming down. We then rode past some
+               large quarries and over the Radan and on through the wood over the mountain to the
+               Molkenhaus and from there went to the Muxklippe, from which there is a very fine view
+               on to the Brocken. We then walked down a very steep hill leading our horses as it was
+               too steep to ride. As off we passed the Ecker my horses eyes had to be tied up as it
+               would not have gone over had that not been done. On the other side we had go through
+               the preserves of <persName key="17501">the count of Stolberg-Wernigerode</persName>
+               till we got to <placeName key="49402">Scharfenstein</placeName> after which the
+               little Brocken begins; and no wonder they thought it haunted. It is so covered with
+               rocks and large stones that the horses could hardly get up it. The big Brocken which
+               we got on after is not so bad. When we got to the top we went up the tower from which
+               though the weather was not good we had a fine view. We then had a very good dinner in
+               the <orgName key="81637">Brockenhotel</orgName> and after it rode down in 2 hours to
+                  <placeName key="49402">Ilseburg</placeName> by the Ilse falls which are very
+               pretty. At <placeName key="49402">Ilseburg</placeName> we went to the <orgName key="66853">Hotel zu den roten forellen</orgName> and had beer and coffee there
+               and from there went by the train to <placeName key="49396">Wernigerode</placeName>
+               where we are living in <placeName key="66854">the weisse Hirsch</placeName>. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

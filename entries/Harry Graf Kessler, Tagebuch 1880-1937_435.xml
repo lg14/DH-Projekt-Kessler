@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="150912">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49411">Blankenburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-06-07">7.6.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>7.6.1884 Samstag</head>
+            <p>
+               <placeName type="write" key="49411">Blankenburg</placeName>. June 7. 1884.</p>
+            <p>This morning I was woke at half past three to see the sun rise and did not like it
+               all. It was not worth ones while to get up so early to see so little. I went to bed
+               again then and got up again at 8 o&#x2019;clock had breakfast and packed my things. When all
+               was ready I went down into the garden and looked through the telescope. When
+                  <persName key="856">aunt Lulu</persName> came down we went up to the Bülow&#x2019;s Höhe
+               and from there to the Rosstrappe where we made the man shoot so that we might hear
+               the echo and gave him 30 pf. for it. We then walked down the Schurre into the
+               Bodethal, and from there walked on to the Teufelsbrücke. On both sides high rocks
+               fall almost straight into the Bode which rushes on through the Kessel foaming and
+               raging. On the other side of the Teufelsbrücke we walked on a little way and then
+               turned and walked to the <orgName key="66858">Waldkater</orgName> by the Königsruhe
+               and the Jungfernbrücke. From the <orgName key="66858">Waldkater</orgName> I walked up
+               the Hexentreppe, 1120 high steps some of them loose, some high and some low, to the
+               Hexentanzplatz. <persName key="856">Aunt Lulu</persName> drove up. At the top I had a
+               glass of milk and spent the time till the carriage came in walking to the
+               Riesenschloss and looking at the scenery. We then drove down to <orgName key="66859">Hotel Zehpfund</orgName> in <placeName key="49410">Thale</placeName> and had
+               dinner there looked at the shops and bought some things and went to the <orgName key="66858">Waldkater</orgName> where we had coffee. At half past four we drove
+               away from <placeName key="49410">Thale</placeName> to the Regenstein near here which
+               is very interesting. There is a ruin of a castle on it which was besieged and taken
+               by <persName key="8321">Frederick the great</persName> by his bombarding the well and
+               smashing it up so that the French who where in it could get no more water in 1756. We
+               also saw the <unclear instant="false">outhöhle</unclear> in one of which a <persName key="1360">princess of Heimburg</persName> was shut up but bored her way through the
+               thinnest part of the wall with her ring! Most of the remaining rooms are hewn out of
+               the rock and there is still a tower in it built by <persName key="1363">Henry I the
+                  Birdcatcher</persName> in the 10<hi rend="sup">th</hi> century. The Romans were
+               here too, and in olden times it was a Raubburg one of the counts let himself out of a
+               window was taken and put into a wooden box. From the Regenstein we drove to
+                  <placeName key="49411">Blankenburg</placeName> to the <orgName key="66860">Weisse
+                  Adler</orgName> where we have two very nice large rooms. In the evening we went to
+               the Thie and heard the band. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

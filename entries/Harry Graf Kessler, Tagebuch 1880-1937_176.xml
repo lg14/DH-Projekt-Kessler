@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="229270">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot.</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-10-15">15.10.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>15.10.1881 Samstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot.</placeName> 15 October. 1881 Saturday</p>
+            <p>We were to go to Hampton court, where we were to lunch with <persName key="1027">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Hodgekin</persName> today but as it hailed and rained we went to <placeName key="49050">London</placeName> instead. In the train we thought we would have our
+               dinner so just as we had taken out our things we arrived at a station and heard the
+               guard crying &#x201e;All change for <placeName key="49050">London</placeName>&#x201c; so out we had
+               to get holding our bread in our hands but we managed to finish our dinner in the
+               other carriage. We got to <placeName key="49050">Waterloo</placeName> at 2 o&#x2019;clock
+               whence we drove to the <orgName key="66953">Savoy theatre</orgName> in a bus to see <name type="work" key="36567">Patience</name>
+               <note type="reg">
+                  <persName key="128">Sullivan</persName>
+               </note> a most intensely utter play in the aesthetic line. It is chiefly written in
+               an incomprehensibly tatoo language. There were some good jokes as when Bunthorne says
+               &#x201e;Then a sentimental passion of a vegetable fashion must excite your languid spleen.
+               An attachment à la <persName key="8101">Plato</persName> for a bashful young potato&#x201c;
+               &#x201e;By hook and crook you try to look both angular and flat&#x201c; But the best is when the
+               Mayor says in a most agonizing fashion after standing in a very intensely aesthetic
+               attitude &#x201e;I wonder what the inner Brotherhood usually recommend for cramp&#x201c; The
+               colonel also sharply remarked that to be aesthetic was to be angular and flat After
+               the theatre we walked down Piccadily without a poppy or a lily as the people in the
+               play did. We had chocolat Grange not mango and got home at about 7½. I am growing
+               intense </p>
+         </div>
+      </body>
+   </text>
+</TEI>

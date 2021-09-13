@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="149245">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="48915">Etrétat</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-08-06">6.8.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>6.8.1881 Samstag</head>
+            <p>
+               <placeName type="write" key="48915">Etrétat</placeName> August 6<hi rend="ul.2">
+                  <hi rend="sup">th</hi>
+               </hi> 1881.</p>
+            <p>We started off from <placeName key="49050">London</placeName> yesterday at 5.p.m. I
+               bought a good lot of Illustrateds, <name type="periodical" key="70794">Punches</name> and
+                  <name type="work" key="28417">David Copperfield</name> and <name type="work" key="28418">Pickwick Papers</name>
+               <note type="reg">
+                  <persName key="10132">Dickens</persName>
+               </note>. Got to <placeName key="48916">Southampton</placeName> about 8. Could not
+               help remembring how <persName key="176">papa</persName> went to see the
+                  <persName>Degners</persName> off to America here and how the ship went away with
+               him on board and how he had to come back in the pilot&#x2019;s boat and we missed the train
+               &#x2013; about 7 years ago. Went on board at 8 and steamer did not start till 12.15. p. m.
+               Stopped on deck till it started wrapped in a shawl. Very smooth. Before going off we
+               had some supper. We were sitting opposite an old maid and her attendant. The old lady
+               ordered some stout so the steward brought it and made it fizz so when the steward
+               brought the second bottle she ejaculated in a great excitement &#x201e;O steward, steward
+               dont throw the stout over me&#x201c;. Steward was a regular cure; told uncle Edmund<note type="reg">
+                  <persName key="1111">Craigie</persName>
+               </note> that if he cut some beef it would spoil the look of the joint. Another time
+               my uncle told him not to shake the beer so he said it would have to be shaken when
+               the ship moved. Arrived at <placeName key="48925">Havre</placeName> at 9.30 a. m.
+               when we saw <persName key="581">aunt Rose</persName> on the pier <persName key="899">Mab</persName> directly
+               made faces at her. Had a snack at <orgName key="x">Tortonis</orgName> and arrived at
+                  <placeName key="48915">Etrétat</placeName> at 2. Weewee<note type="reg">
+                  <persName key="104">Brion, Wilma</persName>
+               </note> was highly delighted at
+               seeing me. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

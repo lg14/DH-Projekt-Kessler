@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="182642">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-05-23">23.5.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>23.5.1884 Freitag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. May 23.
+      1884. Friday</p>
+            <p>My birthday. When I came home from school today I found my birthdaytable
+      spread. <persName key="176">Papa</persName> and <persName key="103">Mama</persName> gave me <persName key="5445">Koenig&#x2019;s</persName>
+               <name type="work" key="28476">Litteraturgeschichte</name> and a crocket game, and
+      dear <persName key="103">Mamma</persName> sent me 50 francs this morning.
+      From <persName key="362">Bonnemamman</persName> I got a check for 2 pounds.
+      The Blümers<note type="reg">
+                  <persName key="1163">Auguste</persName> und <persName key="1162">Wilhelm</persName>
+               </note> gave me a very pretty cover for my drawers,
+      and a thermometer. <persName key="1156">Robert</persName>
+               <note type="reg">Blümer</note> a book about flags and the
+      children flowers. <persName key="856">Aunt Lulu</persName> gave me a stand
+      for my music and <persName key="1223">aunt Gusch</persName>
+               <persName key="18883">Princess
+      Beatrice&#x2019;s</persName>
+               <name type="work" key="36678">birthday book</name> and some
+      flowers. The <persName key="28476">
+                  <hi rend="dc">Übernatürlich Gescheite</hi>
+               </persName> gave me some
+      chocolate as well as <persName key="1240">Dickens</persName>. <persName key="1240">Dickens</persName>
+      by the way has left this today. <persName key="856">Aunt Lulu</persName>,
+      <persName key="1223">aunt Gusch</persName> and <persName key="28476">the U. G.</persName> came to see me.
+      I got a letter from poor <persName key="103">Mamma</persName> this morning.
+      <persName key="1324">Elise</persName>, the cook who can not see, hear or smell now as a
+      new accomplishment pretends that she is mad and as soon as
+      <persName key="103">Mamma</persName> threatens to send for the police is
+      quite well again. <persName key="104">Gee</persName> wrote me a letter too
+      this morning and really I do not believe there is a single present I got today
+      that gave me such pleasure as that letter from the dear little thing. On the
+      whole I spent a very pleasant day.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

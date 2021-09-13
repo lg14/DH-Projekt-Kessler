@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="169826">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-06-15">15.6.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>15.6.1884 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. June 15.
+      1884. Sunday</p>
+            <p>
+               <persName key="176">Papa</persName> arrived this morning at 8
+      o&#x2019;clock. Went to the <orgName key="67586">Hamburger Hof</orgName> at 9.30 this
+      morning and found <persName key="176">Papa</persName> sitting at breakfast
+      with <persName key="1096">Düring</persName> and
+      <persName key="856">aunt Lulu</persName>. After breakfast went out to
+      <placeName key="59496">Wandsbek</placeName> with <persName key="176">Papa</persName>, where the children have got the whooping cough and
+      <persName key="1372">Curt</persName> looks rather ill. <persName key="176">Papa</persName> gave them 20 marks at parting to buy something.
+      Breakfasted at <persName key="856">aunt Lulu&#x2019;s</persName> and after
+      breakfast took the train to <placeName key="59508">Blankenese</placeName>. From
+      the station we walked through the most fearful rain to the Süllberg where
+      each of us had to pay 40 pf. to go up. Down to the Elbe we went down a dreadful
+      way, steep steps <persName key="1223">Aunts Gusch</persName> and
+      <persName key="856">Lulu</persName> could not get down without a deal of
+      screaming and screeching. We went back by the steamer and dined at the
+      zoological gardens in the evening. <persName key="1224">Alfred Busse</persName> was there.
+      <persName key="176">Papa</persName> told us about his <orgName key="x">Museum</orgName>. He says it makes between 700 and 1200 dollars a day and
+      that they have let the programs for 7800 dollars a year and that they get 17
+      per cent on the eatables that are sold there. 
+               <persName key="3863">
+                  <hi rend="dc">Roudolenz</hi> Schröder</persName> was there too. He shook everybody&#x2019;s
+      hand for half an hour by the clock while talking with a
+      &#x201e;croquemort&#x201c; sort of a face to quite some one else. Everybody
+      burst out laughing, but he did not see the joke luckily. Slept at the
+               <orgName key="67586">Hamburger Hof</orgName> with <persName key="176">Papa</persName>
+      in N<hi rend="ul.2">
+                  <hi rend="sup">o</hi>
+               </hi> 90. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

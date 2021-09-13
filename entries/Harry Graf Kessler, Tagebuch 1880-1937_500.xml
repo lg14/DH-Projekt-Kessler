@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="175813">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-06-27">27.6.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>27.6.1885 Samstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName> June 27. 1885. Saturday.</p>
+            <p>The large Kneipe or Commers for <persName key="1854">Bugenhagen</persName> my first.
+               Of course fuchs. First supped a <persName key="1176">Johsts</persName>. Then met rest
+               of friends at school<note type="reg">
+                  <placeName key="66815">Johanneum</placeName>
+               </note> and from there to <orgName key="81655">Borgert</orgName> in a body. Rumours of death of <persName key="10133">Emperor</persName>. Of course not true. <persName key="1809">Schrader</persName>
+               president. Great deal of speechyfying. The best was the <persName key="3809">Directors</persName>. <persName key="1854">Bugenhagen</persName> and the marriage
+               in Cana, history of <persName key="1854">Bugenhagen</persName> festival. After the
+                  <persName key="3809">director</persName> was gone it got more and more boisterous.
+               Great deal of singing, &#x201e;Fuchs, Fuchs&#x201c; in between, &#x201e;Einen steigen&#x201c;, Silentium from the
+               top of the tables and the rapier comes down on the tabel with a fearful bang. Of
+               course somebody is speaking but nobody listening, much too occupied with drinking.
+               Then at the end of the speech the inevitable &#x201e;<foreign n="la">Ad exercitium
+                  Salamanderis</foreign>, Eins, Zwei, Drei etc.&#x201c; and then again &#x201e;Fuchs, Fuchs&#x201c; etc.
+               At 11.30 <persName key="1810">Leithäuser</persName> no longer quite sober. Speaks
+               with fearful screaming and gesticulating. At 12 a cat (Kater) comes in but is
+               expelled by <persName key="1809">the president</persName> for disturbance, while the
+               most uproarious laughter breaks out. At 12.30 Fruhstücks Pause. Another Beefsteak.
+               Breakfast with <persName key="1809">Schrader</persName>, <persName key="1811">Röthiger</persName> and <persName key="1810">Leithäuser</persName>. At 1 the
+               Kneipe begins again. At 2 I walk home with <persName key="1812">Gudenrill</persName>,
+               certainly not quite so sober as I was when I came.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

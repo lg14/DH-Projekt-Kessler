@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194643">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49025">Berlin</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-03-31">31.3.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>31.3.1885 Dienstag</head>
+            <p>
+               <placeName type="write" key="49025">Berlin</placeName> March 31. 1885.</p>
+            <p>Arrived here this afternoon. Directly went out from the <orgName key="67285">Continental Hotel</orgName>, where we had reserved some very good rooms by
+               telegraph from <placeName key="49069">Hamburg</placeName>, to secure places for the
+               torchlight procession in honour of <persName key="8568">Bismarck</persName>. Got very
+               good place &#x201e;<placeName key="56779">Unter den Linden</placeName>&#x201c; We dined at a
+                  <orgName key="81644">Café Unter den Linden</orgName> and afterwards went to our
+               windows on the third story of a house. We could see everything very well. The
+               procession lasted over an hour, and was very amusing especially the Cameroon niggers
+               who were in one part of the procession. After the procession had passed <persName key="856">aunt Lulu</persName> and I went down into the street and tried to get to
+               the Wilhelm Strasse where <persName key="8568">Bismarcks</persName> Palace<note type="reg">
+                  <placeName key="58186">Reichskanzlerpalais</placeName>
+               </note> is situated; But directly we got down we saw what a fearful crowd there was,
+               and when we got as far as the Friedrichs Strasse another crowd was coming down from
+               that street and trying to cross ours. It was stronger than the crowd we were in and
+               the crash that followed can not be described: we were jolted and knocked and trod on
+               so that it is a wonder we were not squeezed to a jelly. <persName key="856">Aunt
+                  Lulu</persName> clung to me and from time to time gave a feeble squeak, till at
+               last we managed to get into an apothecary&#x2019;s shop where we bought something <add hand="hgk">some Natron</add> and were let out by the back door. From here we
+               courageously again pushed forward to the Wilhelm Strasse and this time managed to get
+               there by a back street. The smell there, occasioned by the burning torches which were
+               lying about on the pavement, was dreadful. There was an electric light playing on to
+               the <orgName key="x">Reichskanzleramt</orgName> but nothing else much worth seeing
+               afterwards home.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

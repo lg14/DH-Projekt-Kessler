@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="273143">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49313">Kopenhagen</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-25">25.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>25.5.1885 Montag</head>
+            <p>
+               <placeName type="write" key="49313">Copenhagen</placeName> May 25. 1885</p>
+            <p>Started for <placeName key="49322">Helsingör</placeName> at 9. Rather bad weather at
+               first. Ship crammed; met <persName key="1497">Goebel</persName> my master. Sat on
+               deck whole time. Beautiful scenery. The whole coast of <placeName key="49323">Denmark</placeName> is wooded and green. The coast of <placeName key="49324">Sweden</placeName> came nearer and nearer. Much more rugged. Breakfasted on
+               board; good. Knackebró with butter very good. Arrived at <placeName key="49322">Helsingör</placeName> at 12. Very polite old gentleman took us to Hotel and acted
+               as an interpreter when we wanted to get our carriage. Drove to Kronborg. Saw
+                  <persName key="28409">Hamlets</persName>
+               <note type="reg">
+                  <persName key="8407">Shakespeare</persName>
+               </note> Terrace and the whole castle, <orgName key="81646">picture gallery</orgName>, tower, from which magnificent view and
+                  <placeName key="81647">chapel</placeName>. Then to Marienlyst. Saw <placeName key="28409">Hamlets grave</placeName>. Does not look very old. Ophelias&#x2019; source is
+               very pretty and has got delicious water. Very polite Swedish girls shewed us the way.
+               Then drove to Hilleback and Odinshöe. Lovely drive along the Sund and beautiful view
+               from Odinshöi as far as Kullen in <placeName key="49324">Sweden</placeName>. Then
+               drove back to <placeName key="49322">Helsingör</placeName> and had delicious cakes,
+               ice, and coffee at Pastry cooks. From there by train to Fredensborg. Magnificent park
+               on the border of Esrom See; Normansdalen and italian garden very interesting. From
+               There by carriage to Frederiksborg; very pretty drive through Forest. Frederiksborg
+               very fine. Beautiful <name type="work" key="28844">paintings</name> by <persName key="1500">Bloch</persName> especially in chapel. Dined at <orgName key="81648">Ludersdorffs Hotel</orgName>; not very good. Back to <placeName key="49313">Copenhagen</placeName> by train. Fearfully full; 8 people in one carriage. In the
+               evening at Tivoli, Russische rutschbahn. Dreadful sensation. Very good fireworks.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

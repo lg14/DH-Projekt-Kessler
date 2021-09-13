@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="195430">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-10">10.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>10.8.1885 Montag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi</placeName>
+               <orgName key="49369">Kaltbad</orgName>. August 10. 1885
+      Monday</p>
+            <p>Worked at the Känzli in the morning. In the
+      afternoon walked down to Romiti Felsenthor with
+      <persName key="103">Mamma</persName> and <persName key="1863">Valentin</persName>. Very
+      nice walk. The Felsenthor very interesting. The people at
+      the <orgName key="67190">Felsenthor Hotel</orgName> were horrified at our asking for two
+      lemons for lemonade, so <persName key="1863">Valentin</persName> and I had beer and only
+      <persName key="103">Mamma</persName> lemonade. At the station met
+      <persName key="1867">mother Goose (Miss Ricardo)</persName> as <persName key="1863">Valentin</persName>
+      calls her. When we wanted to get in a fat old man came pushing up, and
+      with a good tang in the ribs asked me &#x201e;Ob ich dächte dass ich
+      allein da wäre&#x201c; &#x201e;Oh nein! sie sind jedenfalls dick genug
+      dass man sie sieht&#x201c; About this all the Swiss people in the carriage were
+      horrorstricken and made remarks and when <persName key="1863">V.</persName> gave it them
+      one man nearly got a stroke. Beautiful Alpenglühen, the Jungfrau
+      magnificent. After dinner spoke with <persName key="1863">Valentine</persName> about the
+      <placeName key="x">Göschenen</placeName> tour. He did not seem to approve of it. Over
+      1500 people died in Spain the day before yesterday.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

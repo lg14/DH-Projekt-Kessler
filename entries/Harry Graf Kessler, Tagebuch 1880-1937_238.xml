@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="221269">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-03-18">18.3.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>18.3.1882 Samstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> March 18. 1882 Saturday.</p>
+            <p> We started up to <placeName key="49050">London</placeName> by the 8.35 up train. We
+               arrived at Waterloo at about 9.30. The Head<note type="reg">
+                  <persName key="667">Sneyd-Kynnersley</persName>
+               </note> had hired some S. W railway busses by the day, for 15/-<note type="com">15 Schilllings</note> each to drive about
+               in. We first had ourselves jolted to the Baker street bazaar where we arrived in
+               rather the worse for wear or rather shaking, for the coachman, a cadaverous looking
+               person, seemed to take great pleasure in driving up all &#x201e;impasses&#x201c; and into all the
+               rocks he could possibly think of or find. I suppose he was the conductor of a funeral
+               car and was perhaps in hopes that the shaking might be fatal to one of the more
+               delicate of our party and that he might be the driver of the funeral car. However we
+               did arrive at Baker street without being quite turned upside down. After that we
+               jolted on to the Zoo where we saw Jumbo. He eat a great many buns but ungratefully
+               rejected the sack which we gave him. We saw the others fed and and went into a small
+               house where we saw some &#x201e;armadilloes.&#x201c; We then drove to <persName key="1117">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Bald&#x2019;s</persName> to have dinner. We sat over dinner till so late that we
+               got to the theatre 20 minutes too late. We saw two pieces: &#x201e;<name type="work" key="28513">Dearer than life</name>&#x201c;<note type="reg">
+                  <persName key="18871">Byron</persName>
+               </note> and &#x201e;<name type="work" key="28514">Domestic economy</name>&#x201c;<note type="reg">
+                  <persName key="18872">Lemon</persName>
+               </note>. In the latter a labourer who was keeping his shop while his wife was out was
+               very rude to his customers: he sent herrings and tallow candles after them and told
+               one who complained how sticky the brandyballs were that it was because his son sucked
+               them and put them back into the box. We afterwards drove to the South-Kensington<note type="reg">
+                  <orgName key="66795">Victoria and Albert Museum</orgName>
+               </note>; we saw the &#x201e;Rocket&#x201c; the first steam engine ever made and the same which ran
+               over <persName key="18852">Huskisson</persName> there. We did not get back to
+                  <placeName key="49097">Ascot</placeName> till a quarter to ten.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

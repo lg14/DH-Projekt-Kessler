@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="169690">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49096">Paris</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-01-01">1.1.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.1.1881 Samstag</head>
+            <p>
+               <placeName type="write" key="49096">Paris</placeName> 1<hi rend="ul.2">
+                  <hi rend="sup">st</hi>
+               </hi> January 1881 Saturday</p>
+            <p>This morning <persName key="856">aunt Lulu</persName> and I went to church. We wanted
+               to go to the german church but we could not find our way so we went to the French one
+               and heard the celebrated Protestant preacher <persName key="871">Delille</persName>
+               preach This evening Prince Reuss<note type="reg">
+                  <persName key="869">Reuß j. L., Heinrich XVIII.</persName>
+               </note> came to diner. <persName key="667">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi>
+               </persName> and <persName key="760">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Kynnersley</persName> came to see <persName key="103">Mamma</persName> who
+               had lovely bouquets today. At diner with <persName key="869">prince Reuss</persName>
+               the conversation turned on what the <persName key="872">Bürgermeister
+                  Ockel</persName> did to us in <placeName key="49084">Pyrmont</placeName> this
+               summer and which for various reasons I could not put into my diary then but I take
+               this occasion of doing so: When <persName key="103">Mamma</persName> told <persName key="872">Ockel</persName> that we were going away in a few days he said that
+                  <persName key="176">Papa</persName> had said he was going to stay 5 weeks,
+                  <persName key="103">Mamma</persName> of course said it was not true so he said he
+               would have <persName key="103">Mamma</persName> taken up; <persName key="103">Mamma</persName> got into a dreadful fright because Baby<note type="reg">
+                  <persName key="104">Brion, Wilma</persName>
+               </note> was very nearly dying she wrote to <persName key="176">Papa</persName> to
+               come derectly. <persName key="176">Papa</persName> arrived with a recommendation
+               letter from the german embassy <persName key="872">Ockel</persName> said, to use <hi rend="ul">his</hi> expression &#x201e;He <hi rend="ul">fichoid</hi> himself of the german
+                  embassy&#x201c;<note type="com">Vermutlich von "se ficher de quelqu'un", ugs. "auf
+                  jemanden pfeifen".</note>
+               <persName key="103">Mamma</persName> threatened with the
+                  emperor<note type="reg">
+                  <persName key="10133">Wilhelm I.</persName>
+               </note> &#x201e;I fichai myself of him&#x201c; said he; <persName key="176">Papa</persName> told
+               him to take his oath <persName key="176">Papa</persName> had said he was going to
+               live there 5 weeks &#x201e;and if I have not said it&#x201c; said he and he shewed <persName key="176">Papa</persName> an order <hi rend="ul">not</hi> signed by anybody but
+               himself that whosoever lives in his houses must live there five weeks. so <persName key="176">Papa</persName> went to <persName>Mister v. L.......</persName> the
+               Badekommissär who sent him to <persName key="873">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Möckel</persName> the lawyier who said he would take the matter in hands.
+               The <persName key="872">Bürgermeister</persName> wrote an impertinent letter to
+                  <persName key="176">Papa</persName> which <persName key="176">Papa</persName> gave
+               to <persName key="873">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Möckel</persName>. But <persName key="104">Baby</persName> being so ill
+                  <persName key="176">Papa</persName> did not like going on with the law suit and so
+               he paid <persName key="872">Ockel</persName> 50 Marks and <persName key="873">Möckel</persName> 30 Marks, hardly had he done this when <persName>Mr v.
+                  L.......</persName> comes in &#x201e;à toute vitesse&#x201c; saying he hopes <persName key="176">Papa</persName> has not given it up because the <persName key="874">countess
+                  Feil</persName> had been played the same trick upon by <persName key="872">Ockel</persName>
+               <persName key="176">Papa</persName> said he had payed so the <persName key="874">countess Feil</persName> had (I suppose) to pay too The day before we left
+                  <placeName key="49084">Pyrmont</placeName> we drove to <placeName key="49107">Hameln</placeName> and when we came back the people were very quite<note type="com">Zwei durch große X gekennzeichnete Stellen markieren eine Umstellung.
+                  Die Transkription folgt der Umstellung. Der Name des Badekommissärs ist von
+                  Kessler nicht ausgeschrieben.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

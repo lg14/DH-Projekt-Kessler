@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194942">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-05-14">14.5.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>14.5.1882 Sonntag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> 14. May. 1882.</p>
+            <p>
+               <persName key="667">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Kynnersley</persName> is keeping up a lively correspondence with a
+               collection of Bishops and deans. asking them to come and preach on the 24 of June. He
+               began by writing to the Dean of Westminster<note type="reg">
+                  <persName key="1133">Bradley</persName>
+               </note> who answered that he could not come on account of some schoolchildren. He
+               next wrote to the Bishop of Exeter<note type="reg">
+                  <persName key="1134">Temple</persName>
+               </note> who has not yet answered. If he cannot get him to come he will try to get the
+               Bishop of Truro<note type="reg">
+                  <persName key="80925">Benson</persName>
+               </note>. <placeName key="49586">Oxford</placeName>
+               <note type="reg">
+                  <persName key="897">Mackarness</persName>
+               </note> is next on the list; in case these three do not come there are 26 more
+               Bishops to be asked besides their Deans; so that a Bishop we shall have. there is a
+               collection for the Organ on the 24 of June so that the evident object of all this
+               bustle is a large collection. The Head<note type="reg">
+                  <persName key="667">Sneyd-Kynnersley</persName>
+               </note> reminds me of <persName key="1135">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Clutterbuck</persName> in &#x201e;<placeName key="48968">S<hi rend="ul.2">
+                     <hi rend="sup">t</hi>
+                  </hi> Antolins</placeName>&#x201c; who got the Duchess to come down to the Bazaar so that
+               all the people, who had never before seen a Duchess, should come and buy. And of the
+               other scene: <persName key="1135">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Clutterbuck</persName> has an Orchestra established in the <placeName key="48968">Church of St Antolin&#x2019;s</placeName>, on the opening day, to play at every pause in
+               the service</p>
+         </div>
+      </body>
+   </text>
+</TEI>

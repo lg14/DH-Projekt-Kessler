@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="195434">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="80179">Göteborg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-28">28.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>28.5.1885 Donnerstag</head>
+            <p>
+               <placeName type="write" key="80179">Gothenburg</placeName>. May 28. 1885.</p>
+            <p>Started for the <placeName key="57039">Trollhätta</placeName> at 7.10 this morning.
+               The whole way there thought about <persName key="75366">Kristiania</persName>. Very nice
+               gentleman in carriage with us. scenery very pretty on the way (there). At Station
+                  <placeName key="57039">Trollhätta</placeName> at 10. First eat some execrably bad
+               ragout at <orgName key="67004">Hotel Trollhättan</orgName>, then took a little boy to lead us
+               to the Cataracts. First he took us to the Locks. All one above the other. Then along
+               the Göta Elfe which here winds though rocks covered with pines. Very soon we heard
+               the noise of the first cataract. The whole rapids are over a mile long. The first is
+               the smallest, but very fine. The boy took us to a tower from which we had a view over
+               the whole rapids, then down to the old lock which is now a very pretty waterfall.
+               From there to the large cataract. The Göta Elf is here about twice as broad as the
+               Seine. We went over a bridge, the fall nearly deafening me, on to a little island in
+               the middle of the cataracts. On both sides the water surges and boils up as if it was
+               lushed by a gigantic whip. It is impossible to describe the roar with with this
+               enormous mass of water bounds down over the rocks, nor the beauty of the scenery. One
+               could sit there hours and look at it and always find new beauties. Especially on the
+               bridges the scene is indescribably grand: the bare rocks with here and there a pine,
+               rising out of the foam which splashes and bounds around them as though it would
+               swallow them up in its seething bosom. After a while we went up one of the colossal
+               boulders which stud the country but lost our way and had to go down and get the boy
+               to lead us, This he did and we had a magnificent view of the whole falls, but not to
+               be compared to the indescribably grand scene from the bridge below. From here he led
+               us back to the <orgName key="67004">Hotel</orgName>, where we had some beer and coffee and
+                  <persName key="856">aunt Lulu</persName> bought some Knackebrö. At 3 we got into
+               the carriage and drove to the station where we had to wait some time before the train
+               started. As we came into <placeName key="80179">Gothenburg</placeName> we saw a large
+               fire and when we got out the whole town was running that way. The only cab in the
+               place was taken away from us before our very noses by another man so that we had with
+               the really dreadful shawlpacket to walk to the Uffo. The captain
+               promised to wait a quarter of an hour for us. But with our general luck here again
+               the one cab was taken by a family with a lot of trunks before we could get it, so
+               that we again had to walk. <persName key="856">Aunt Lulu</persName> gave the
+               shawlpacket a boy to carry and he of course lost her waterproof over which she
+               lamented dreadfully and began to cry. We at last got a cab and drove to the
+                  <orgName key="67004">Hotel</orgName> where we packed everything in a dreadful hurry, but of
+               course missed the Uffo over which <persName key="856">aunt Lulu</persName>
+               again began to cry. However I managed to calm her and we had dinner, an <hi rend="ul">abominable</hi> beefsteak at the <orgName key="67000">Göta Källare</orgName>. From here we
+               went to the same garden we had been at the day before
+               and heard the music. At 9.35 after tea and two eggs we started for <placeName key="49335">Malmö</placeName> in a very nice Coupé. I broke my stick though in
+               getting into the train.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

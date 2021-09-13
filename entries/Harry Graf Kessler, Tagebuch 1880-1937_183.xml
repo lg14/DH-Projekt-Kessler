@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194916">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-11-01">1.11.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.11.1881 Dienstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> Tuesday 1
+      November 1881</p>
+            <p>We went to <placeName key="48929">Guildford</placeName> today. We started
+      from here by the 11.15 train. We had to change at <placeName key="48930">Woking</placeName> where we had to wait a quarter of an hour and arrived
+               at <placeName key="48929">Guildford</placeName> at 1. On the way the Head<note type="reg">
+                  <persName key="667">Sneyd-Kynnersley</persName>
+               </note> read <name type="work" key="28429">Chryssies
+      Heros</name>
+               <note type="reg">
+                  <persName key="18862">Lyster</persName>
+               </note> which is rather
+      a good book. At <placeName key="48929">Guildford</placeName> we had dinner at the
+      <orgName>White lion inn</orgName> over the door of which a great big
+      whitewashed plaster lion was stuck up. It is rather a picturesque town
+      especially as the street goes rather uphill and as a large clock projects into
+      it. There is an old grammar school of the time of <persName key="1031">Edward
+      VI</persName>. I bought some photographs of the town at <placeName key="48929">Guildford</placeName>. after dinner we walked to the chalk pits to find
+      fossils but as there was more stone than chalk in the pits there were no
+      fossils.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

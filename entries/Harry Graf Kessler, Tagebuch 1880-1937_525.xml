@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="148873">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-11">11.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>11.8.1885 Dienstag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi</placeName>
+               <orgName key="49369">Kaltbad</orgName>. August 11. 1885. Tuesday.</p>
+            <p>Again worked in the same place in the morning. In the afternoon read the papers and
+               walked up to Staffelhöhe with <persName key="103">Mamma</persName> and <persName key="104">Baby</persName>. As it began to lighten and thunder we walked back very
+               soon though and I wrote and read in <persName key="103">Mamma&#x2019;s</persName> room.
+                  <persName key="103">Mamma</persName> read the last two chapters of <name type="work" key="28748">Mad. de Mineleko</name> to me, which she has shortly
+               written. She is now working at <name type="work" key="28731">Wilma de Lashas</name>.
+               which she began in April while <orgName key="67188">Lemerre</orgName> was reading
+                  <name type="work" key="28586">Roland</name>. Danced in the evening. This morning
+               at five the Steamwashapparatus began to go and woke everyone up. It sounds like a
+               battery of cannons. Du reste we are not spared noise here. There was an individual on
+               my landing who began grating his violin and producing the most heartwrending sound
+               every morning before six. Thank goodness he is gone now. There is also a female who
+               begins to thump the piano at five in the morning and pierces the temples and nerves
+               of the house inmates with the most terrifying shrieks. In fact if one was to describe
+               all the inhabitants of the <orgName key="49289">Kaltbad</orgName> one could get
+               together a good lot of cures. There is that Roumanian with a craze on <persName key="1868">Sarah Bernhardt</persName>, with frizzly hair, a cadaverous looking
+               face and wild eyes. À propos of her, the other day when her bathing woman did not dry
+               her properly she went to her dressing table, pulled out a dagger and. told the
+               terrified woman that if she did not dry her on the spot she would kill her. There is
+                  <persName key="1869">old baron Oppenheim</persName> whose whig nearly flew away
+               the other day and who always walks as if he had got the stomack ache, there is the
+               &#x201e;femme au panache&#x201c; with the white feathers towering high above her, there is Mother
+                  Goose<note type="reg">
+                  <persName key="1867">Ricardo</persName>
+               </note> with her rouge and cosmetics and yellow dresses and red and pink hats and
+               juvenile look and 90 years, then <persName key="1870">old Ibrahim</persName> who is
+               in love with <persName key="1872">prince George</persName> and last but not least
+                  <persName key="1871">old Mariassi</persName> with her brown veil and dust cloak,
+               who always sits with her back to the mountains: The charlatan is represented by
+                  <persName key="1873">D<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Hermann</persName>. 4500 cases and 1663 deaths of the cholera in Spain
+               yesterday. German demonstration before Zanzibar and <persName key="1319">General
+                  Grant&#x2019;s</persName> funeral are the great topics now.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

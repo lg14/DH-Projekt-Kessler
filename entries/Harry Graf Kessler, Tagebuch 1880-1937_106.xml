@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="175809">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49096">Paris</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-05-01">1.5.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.5.1881 Sonntag</head>
+            <p>
+               <placeName type="write" key="49096">Paris</placeName>. 1. May. 1881. Sunday. S. rises
+               4.33. sets 7.21.
+            </p>
+            <p>Full moon 13. <persName key="642">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Cook</persName> and <persName key="904">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Scudamore</persName> came to fetch me this morning for <placeName key="48884">Versaille<add hand="hgk">s</add>
+               </placeName>. We started by the 10.30 train in which we could hardly get <add hand="hgk">a</add> places. When we got to <placeName key="48884">Versailles</placeName> we took the buss and drove to the <orgName key="67515">Museum</orgName>; but this not yet being open we strolled into the grounds. At
+               twelve we went into the <orgName key="67515">Museum</orgName> where we saw the
+               pictures of the admiral<add hand="hgk">s</add>, constables, Marshals and great
+               warriors of France, pictures illustrating the history of France. <persName key="3939">Marie Antoinettes</persName> Private apartments and the &#x201e;salle des glaces&#x201c;, the
+               hall in which the King of Prussia<note type="reg">
+                  <persName key="10133">Wilhelm
+                     I.</persName>
+               </note> was crowned <persName key="10133">Emperor of Germany</persName>. We came out
+               of the <orgName key="67515">Museum</orgName> a little past one and went to the little
+               and the big Trianon where we saw the state carriages and the appartments occupied by
+                  <persName key="5624">Madame de Maintenon</persName>, <persName key="3939">Marie
+                  Antoinette</persName>, <persName key="8003">Napoleon 1<hi rend="ul.2">
+                     <hi rend="sup">st</hi>
+                  </hi>
+               </persName>, <persName key="9589">Louis
+                  Philippe</persName> and Queen Victoria<note type="reg">
+                  <persName key="9544">Victoria I.</persName>
+               </note>, and the
+               hall in which <persName key="907">Bazaine</persName> was tried in 1873. After that we went to have breakfast at the
+               <orgName key="81301">Hotel de France</orgName> on salmon, cutlets and potatoes and Coffee at
+                  15.<hi rend="sup">fr.</hi>75. for three of us. Then we went to see the Band and
+               &#x201e;Grandes-Eaux.&#x201c; We took seats at the basin de Neptune, at 4.25. and watched the
+               swelling ant-like crowd, getting greater and greater roaring and rushing. Twice it
+               started up on false alarm and sat down and twice that buzz grew and fell till at last
+               the continual roar shewed the basin de Neptune was playing; we
+               just looked at it and then walked sharply to the station where I took 1<hi rend="sup">st</hi> class tickets. But once on the platform I saw the hard reality: the
+               choice between stopping at <placeName key="48884">Versailles</placeName> or being
+               buried with dust on the imperial: we chose the latter. At first we were very
+               comfortable <hi rend="ul">but</hi> at <placeName key="48885">Ville
+                  d&#x2019;Avray</placeName> A lot of of People got in and made it nearly impossible for
+               other people to get in <hi rend="ul">but</hi> at <placeName key="48886">Suresne</placeName> ... O dear! the carriages in which there was one seat left
+               were directly stormed by about 20 people, screaming and howling and swearing, and
+               pushing and fighting and treading on corns &#x2013; and the the carriages in which there
+               were no seats left were no better off We were directly invaded by a whole army of
+               human-beings who could not even get in and who had to hold on by the sides, (or
+               passerelle). Then the screaming of the people left behind and the howling and the
+               cheering of the people who had places mixed in one long yell which died by degrees
+               but was <del hand="hgk">always</del>
+               <add hand="hgk">invariably</add> taken up again by the people in the train every time
+               we went through a tunnel or passed any habitation or any living creature. In
+                  <placeName key="49096">Paris</placeName> all made a rush and consequently nobody
+               could move.<add hand="hgk"> and We came home very tired.</add> At <add hand="hgk">the
+                  gare</add> S<hi rend="ul.2">
+                  <hi rend="sup">t</hi>
+               </hi> Lazare we found <persName key="904">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Scudamore</persName> who had got into carriage and not onto the Imperial.
+                  <persName key="642">M<hi rend="ul.2">
+                     <hi rend="sup">eurs</hi>
+                  </hi> Cook</persName> and <persName key="904">Scudamore</persName> made me accept
+               8.50. as giving back.<note type="com">Am Schluß dieses Eintrages ist eine Passage
+                  durch zwei X markiert. Da keine Einweisungszeichen vorhanden sind, wurde die
+                  Passage an der Stelle belassen. Nachträgliche Eintragungen erfolgten mit schwarzer
+                  Tinte und sind so deutlich zu erkennen.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

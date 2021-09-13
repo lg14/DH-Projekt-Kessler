@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="193947">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-06-15">15.6.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>15.6.1882 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> June 15. 1882. Thursday.</p>
+            <p> Sis&#x2019; funeral took place. The order of the procession was as follows: first came the
+               hearse, (the hearse was a whealbarrow on which was placed a hutch on top of the hutch
+               was placed the coffin, both hutch and coffin being entirely covered by a large black
+               shawl, strewn with white pinks), with <persName key="763">Schuster</persName> tolling
+               the bell on one side of it and <persName key="916">Jay</persName> carrying the spade
+               on the other; next came the two mourning coaches with rabbits inside, next came I
+               vainly smelling an onion, and last of all <persName key="667">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi>
+               </persName> and <persName key="760">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Kynnersley</persName>, <persName key="939">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Macdonald</persName> and <persName key="1139">Miss Macdonald</persName>. We
+               went the most round about way we could, the little rabbits enjoying themselves
+               prodigiously and munching away at some ferns all the time then &#x201e;Sis&#x201c; was let into the
+               family vault: but at that moment the smell was so overpowering that the coffin was
+               quickly let down, tilted over and covered with earth. A square headstone has been
+               ordered with the inscription: HERE LIES &#x201e;SIS&#x201c; A FAITHFUL RABBIT. BORN APRIL 3 1878,
+               DIED JUNE 14 1882.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

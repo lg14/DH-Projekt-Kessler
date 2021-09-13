@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194981">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-05-25">25.5.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>25.5.1884 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName> May 25 1884.</p>
+            <p>Went to Haspergs<note type="reg">
+                  <persName key="1152">Amanda</persName> und
+                     <persName key="11239">Heinrich</persName>
+               </note>. I started at halfpast ten a.m.. When I got
+               there I found out that the races in <placeName key="49382">Bahrenfeld</placeName>
+               were not to take place till four o&#x2019;clock. So I stopped in the garden with <persName key="72975">Heine</persName>
+               <note type="reg">Hasperg</note> till 2. Then we drove
+               away in the dogcart. <persName key="22971">Paul</persName>
+               <note type="reg">Hasperg</note> driving and <persName key="72925">Belle</persName>
+               <note type="reg">Hasperg</note> sitting next to him, I and <persName key="72975">Heine</persName>
+               on the other seat. The races were very nice. <persName key="1155">Ward</persName> and
+                  <persName key="1240">Dickens</persName> were beaten but <persName key="22971">Paul</persName> won two races. The prizes for them were a large horn and a
+               champaign-icer. The dust was simply fearful on the way back and we drove at a fearful
+               pace. We dined at 8. Totty <persName key="1326">Burke</persName> was there too and a
+               woman with a huge red satin star on one side that looked like a decoration. We were
+               twenty-three. <persName key="1327">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Ehnett</persName> proposed <persName>Paul&#x2019;s</persName> health.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

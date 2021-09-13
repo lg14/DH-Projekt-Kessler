@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="182633">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="48915">Etretat</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-08-09">9.8.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>9.8.1881 Dienstag</head>
+            <p>
+               <placeName type="write" key="48915">Etretat</placeName> 9<hi rend="sup">th</hi> August 1881 Tuesday</p>
+            <p>Dreadful blow in the night. When we went down to the beach this morning
+      we found some of the waves coming up so high as the bathing cabins. I found a
+      lot of agotes and seaweed and shells. Saw the ex-queen of
+      Spain<note type="reg">
+                  <persName key="6664">Isabella II.</persName>
+               </note> and <persName key="999">the Altavilla</persName>. Our fair friend, the ugly old
+      crow as <persName key="899">Mable</persName> calls her, who declared yesterday that I was
+      hurting her when I moved my chair without touching her, kept aloof of us today
+      and sat in an uncomfortable place so as not to be near us who were comfortably
+      sitting in a stranded boat. We (Bonnemaman<note type="reg">
+                  <persName key="362">Lynch, Caroline</persName>
+               </note>,
+      <persName key="581">Aunt Rose</persName> and I) drove to
+      <placeName key="48919">Yport</placeName> this afternoon where I and
+      <persName key="581">aunt Rose</persName> helped to catch some crabs which we
+      had boiled for dinner. Some boys which we met there told us that 3 men had been
+      drowned last night and that they were getting up a subscription for their
+      relations. One of these boys was a relation of <persName key="1000">Alma-Tadéma</persName> the painter </p>
+         </div>
+      </body>
+   </text>
+</TEI>

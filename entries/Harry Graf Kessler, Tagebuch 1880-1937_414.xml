@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="189738">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-03-04">4.3.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>4.3.1884 Dienstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. March 4. 1884. Tuesday.</p>
+            <p>The <persName key="7392">Mackay</persName>-<persName key="1250">Meissonier</persName> scandal
+               seems to be making great noise in <placeName key="49096">Paris</placeName> this is
+               the <name type="work" key="x">report</name> of the <name type="periodical" key="70796">Hamburgscher
+                  Correspondent</name> of the 2nd of March about it:<note type="com">Der folgende
+                  Zeitungsartikel ist an dieser Stelle in das Tagebuch eingeklebt. Breite 8,5 cm,
+                  Länge 33 cm.</note>
+            </p>
+            <p>
+               <quote type="copy">
+                  <persName key="7392">Mackay</persName> und <persName key="1250">Meissonier</persName>. Man schreibt der
+               &#x201e;V. Z.&#x201c;<note type="reg">
+                     <name type="periodical" key="70819">Vossische Zeitung</name>
+                  </note> aus <placeName key="49096">Paris</placeName>, 27. Februar. Ganz <placeName key="49096">Paris</placeName> &#x2013;
+               um den herkömmlichen Ausdruck zu gebrauchen &#x2013; beschäftigt sich mit dem Streithandel
+               zwischen den amerikanischen Silbergrubenbesitzer <persName key="7392">Mackay</persName> und dem
+               Maler <persName key="1250">Meissonier</persName>. Für den Fernerstehenden wird die Sache erst
+               ganz verständlich, wenn er die eigenthümlichen Pariser Zustände kennt, welche allein solche &#x201e;Ereignisse&#x201c; möglich
+               machen. <placeName key="49096">Paris</placeName> ist eine Fremdenstadt. Die Ausländer
+               geben hier jährlich mindestens 6-700 Millionen aus und bezahlen den größten Theil des
+               Glanzes und Aufwandes, der in <placeName key="49096">Paris</placeName> gemacht wird.
+               Unzählige Haus- und Gasthofbesitzer, Geschäftsleute aller Art, besonders auch
+               Künstler, sind auf sie angewiesen und leben nur durch sie. Deshalb herrscht in
+                  <placeName key="49096">Paris</placeName> ein System, welches man am besten durch
+               Fremdencultus bezeichnen kann. Die Fremden müssen natürlich die Kosten dieses Cultus
+               tragen, sich außerdem auch Alles gefallen lassen, was die Cultusdiener und
+               Hierophanten mit ihnen vorzunehmen für gut finden, um sie auf die Höhe des
+               Pariserthums zu bringen. Sobald dieselben einmal sich aufbäumen und Widerstand
+               leisten, werden die Hierophanten ungemüthlich, der Zauber schwindet und der Ausländer
+               steht vor der nackten Wahrheit, daß er nur seines Geldes und seiner Willfährigkeit
+               halber verehrt und beweihräuchert wurde. Diese Erfahrung macht jetzt die
+                  <persName>Familie Mackay</persName>, deren Schicksal als Beispiel dienen mag. Als
+               <persName key="7392">Mackay</persName> sich einige Jahre nach dem Frankfurter Frieden in <placeName key="49096">Paris</placeName>
+               niederließ, war ihm der Ruf seiner reichen Silbergruben in Colorado, welche jährlich
+               20-60 Millionen einbringen oder einbrachten, schon vorausgegangen. Er wurde sofort in
+               Behandlung genommen. Geschäftsleute aller Art, Händler und Künstler bestürmten ihn
+               mit ihren Anträgen. Besonders legte sich auch die sogenannten Boulevardpresse darauf,
+               das Haus <persName key="7392">Mackay</persName> anzuzapfen. <persName key="17792">Frau Mackay</persName>
+               konnte sich nirgendwo blicken lassen, ohne daß sofort alle besagten Blätter sich mit
+               ihr, ihren Toiletten und Diamanten, ihrer Familie und ihren Millionen beschäftigten.
+               Als sie diese Huldigungen wenig oder nicht genügend beachtete, wurden anderen Saiten
+               aufgezogen. Mehrfach wurde die Verlobung ihrer <persName>ältesten Tochter</persName>
+               mit irgend einem Herzog oder Fürsten gemeldet, blos um &#x201e;anzubohren&#x201c;, blos um den
+               Reportern einen Vorwand zu verschaffen, sich im Hause des <persName key="7392">Herrn
+                  Mackay</persName> einzustellen, um &#x201e;Näheres&#x201c; zu erfahren, oder auch blos, um eine
+               Berichtigung zu erzwingen und auf diese Weise mit der Familie anzubinden und in
+               Beziehungen zu treten. Den Hierophanten war es besonders anstößig, daß <persName key="17792">Frau
+                  Mackay</persName> sich so kleinstädtisch benahm, das heißt in Abwesenheit ihres
+               Gemahls, &#x2013; welcher meist nur 6 bis 8 Monate jährlich in <placeName key="49096">Paris</placeName> weilte und einige Male sogar über ein Jahr fernblieb &#x2013; keine
+               Feste gab, keinen Herrengesellschaft empfing und sich überall nur in Begleitung
+                  <persName>ihrer Mutter</persName> zeigte. Vor vier Jahren veranstaltete jedoch
+               <persName key="7392">Herr Mackay</persName> ein ungemein prachtvolles Fest, welches Aufsehen
+               erregte. Jedoch rächten sich eine Anzahl der bei den Einladungen nicht
+               berücksichtigten Blätter durch Angriffe und hämische Bemerkungen. Seitdem haben
+               <persName key="7392">Herr</persName> und <persName key="17792">Frau Mackay</persName> keine ähnlichen
+               Feste mehr gegeben. Darob noch größere Verstimmung. Ebenso wurden die sich mehrenden
+               Aufdringlichkeiten einige Male etwas nachdrücklich zurückgewiesen. Dies war natürlich
+               Oel ins Feuer. Hierzu kam nun ein Zwist mit <persName key="1250">Meissonier</persName>, wegen
+               dessen die gesammte Boulevardpresse über
+               <persName key="7392">Mackay</persName> herfällt. Dieser hat sich (wie schon früher berichtet)
+               unterstanden, an einem <name type="work" key="81526">Bilde</name> des &#x201e;größten Malers der Welt&#x201c;
+               etwas auszusetzen, anstatt anbetend niederzufallen und unbesehen zu bezahlen. Und
+               doch ist es Thatsache, daß das von <persName key="1250">Meissonier</persName> gemalte und mit
+               70,000 Frcs. bezahlte <name type="work" key="81526">Bildniß</name> der <persName key="17792">Frau
+                  Mackay</persName> gar wenig ähnlich und überdies unbedingt ein schwächeres Werk
+               des Meisters ist. Schreibt man doch <persName key="1250">Meissonier</persName> das Wort zu: &#x201e;Gut
+               genug für Amerikaner&#x201c;. Dabei hat <persName key="1250">Meissonier</persName>, welcher seit
+               Jahrzehnten nicht mehr ausstellt, die Tactlosigkeit begangen, das <name type="work" key="81526">Bild</name> ohne Vorwissen von <persName key="7392">Herrn</persName> und <persName key="17792">Frau
+                     Mackay</persName> im Salon auszustellen. Als <persName key="7392">Mackay</persName>
+               verlangte, daß das <name type="work" key="81526">Bild</name> doch wenigstens <persName key="17792">seiner
+                  Frau</persName> ähnlich sehe, wurde <persName key="1250">Meissonier</persName> grob und
+               bedeutete ihm, daß er von Kunst nichts verstehe. Als wenn man ein Kunstverständiger
+               sein müsse, um zu unterscheiden, ob ein Bildniß ähnlich ist oder nicht! Anstatt das
+               <name type="work" key="81526">Bild</name> zu überarbeiten, schickte
+               <persName key="1250">Meissonier</persName> den Gerichtsvollzieher, um Zahlung zu erhalten.
+               Man schickte ihm die verlangten 70,000 Francs; aber da man das <name type="work" key="81526">Bild</name> unmöglich als Portrait der <persName key="17792">Frau Mackay</persName> ausgeben
+               kann, wurde es in die Rumpelkammer befördert, oder, wie Andere sagen, verbrannt.
+               Darob nun allgemeines Halloh unter allen Denjenigen, welche aus den oben dargelegten
+               Gründen Ursache zu haben glauben, mit <persName key="7392">Mackay</persName> unzufrieden zu
+               sein. &#x201e;<name type="periodical" key="70888">Figaro</name>&#x201c; und seine Sippe ergehen sich in
+               pöbelhaften Angriffen auf den &#x201e;Amerikaner&#x201c;, werfen ihm seinen Reichthum vor,
+               bezeichnen ihn als Emporkömmling und Protzen, als Börsenjobber. Sie sollten doch
+               wissen, daß <persName key="7392">Mackay</persName> seinen, jetzt auf eine halbe Milliarde
+               geschätzten Reichthum einzig den Silbergruben verdankt, die er das Glück hatte,
+               billig zu erwerben. Man weist ihm die Thür: &#x201e;Wir haben die Millionäre haufenweise&#x201c;,
+               sagt der &#x201e;<name type="periodical" key="70888">Figaro</name>&#x201c;, &#x201e;und für einen, der abgeht, gleich
+               wieder zwei neue; aber wir besitzen nur einen <persName key="1250">Messonier</persName>&#x201c;. Er
+               ruft die französische Nation auf, die ihrem größten Künstler von einem gewöhnlichen
+               Geldmenschen angethane Schmach zu rächen. Es soll ein Banket zu Ehren
+               <persName key="1250">Messonier&#x2019;s</persName> veranstaltet werden, um ihn zu verherrlichen und
+               dem &#x201e;Amerikaner&#x201c; zu zeigen, welch&#x2019; elender, ungeschliffener Bär er ist. Es wirkt in
+               der That komisch, zu sehen, wie sich dieselben Leute, welche bisher den
+                  Macky&#x2019;schen Goldhaufen so sehnsüchtig und tiefverehrend
+               umkreisten, in lautere sittliche Entrüstung hineinzureden suchen. Andererseits nehmen
+               die hier wohnenden Amerikaner entschieden Partei für <persName key="7392">Mackay</persName>. Sie
+               wollen eine Demonstration gegen das <persName key="1250">Meissonier</persName>-Bankett
+               veranstalten, wenn dieses zu Stande kommt. Das Ende vom Liede könnte sein, daß
+               <persName key="7392">Mackay</persName>
+                  <placeName key="49096">Paris</placeName> den Rücken kehrt. Ihm hat es hier nie
+               besonders gefallen, und nur <persName key="17792">Frau Mackay</persName> hielt die Familie in
+                  <placeName key="49096">Paris</placeName>, wo jetzt gerade sie von der Presse auf&#x2019;s
+               Korn genommen wird. Seitdem <persName key="7392">Herr Mackay</persName> mehrere andere
+               europäische Hauptstädte besuchte, hat seine Abneigung gegen den hiesigen Aufenthalt
+               zugenommen.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

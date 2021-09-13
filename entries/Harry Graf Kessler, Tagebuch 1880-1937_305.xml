@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="195404">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="48915">Etretat</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-09-04">4.9.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>4.9.1882 Montag</head>
+            <p>
+               <placeName type="write" key="48915">Etretat</placeName> September 4 1882
+                  Monday</p>
+            <p>
+               <persName key="103">Mamma</persName> and were walking on the road to <placeName key="48926">les Ifs</placeName> today, when we saw some smoke coming out of a
+               chump of trees; we walked up to them and there saw a good sized house one mass of
+               flames; the poor people who lived in it were crying, while the people of <placeName key="50318">Bordeaux</placeName> were standing about gossiping and telling those
+               whose house was burning that of course everything would be burnt but that they ought
+               to be thankful that it did not happen in the night. The fire-engine had been sent for
+               to <placeName key="48918">les Loges</placeName> and <placeName key="48915">Etretat</placeName>. The <placeName key="48918">Loges</placeName> engines arrived
+               at about 6.30 and the bags with the folding canvas pails were immediately opened and
+               each of us got a pail and fetched water amidst the screams of &#x201e;de l&#x2019;eau, allons de
+               l&#x2019;eau,&#x201c;; but everything was very disorganized till we were told to make &#x201e;la chaine&#x201c;
+               that is to stand in two rows: one to pass the filled buckets to the engine, the other
+               to pass back the empty ones. At a little past seven <persName key="103">Mamma</persName> went away and at about half past the <placeName key="48915">Etretat</placeName> engine arrived but could not do much good as almost all the
+               water in the place was exhausted, the little that was left being more or less
+               monopolized by the <placeName key="48918">Loges</placeName> people. I went away at
+               about 8.15. and met <persName key="877">François</persName>, who took me home on the road.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194611">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="51612">Saint-Germain-en-Laye</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-07-29">29.7.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>29.7.1885 Mittwoch</head>
+            <p>
+               <placeName type="write" key="51612">S<hi rend="ul.2">
+                     <hi rend="sup">t</hi>
+                  </hi> Germain</placeName>. July 29. 1885.
+      Wednesday.</p>
+            <p>Went to <placeName key="49096">Paris</placeName> in the morning to see
+      <persName key="1824">Johnston</persName>. First went to <persName key="4196">Déclat</persName>
+      where <persName key="176">Papa</persName> was pulveriséd, then to
+      Printemps and <persName key="1824">Johnston</persName>. Wrote to
+      <persName key="856">aunt Lulu</persName> and <persName key="1162">Pastor
+      Blümer</persName> at bureau then breakfasted very well at
+      <orgName key="67002">Noël&#x2019;s</orgName> in the Passage des Princes
+      I think. In the afternoon came home just in time for the horrible Blood
+      drinking and read <name type="work" key="28748">Madame de Mineleko</name>
+               <persName key="103">Mamma&#x2019;s</persName> new novel. Afterwards drove to
+      Station with <persName key="103">Mamma</persName> to meet
+      <persName key="176">Papa</persName>, had to wait a long time till half past
+      8. Talked about her novels to <persName key="103">Mamma</persName>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274027">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="48915">Etretat</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-09-05">5.9.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>5.9.1882 Dienstag</head>
+            <p>
+               <placeName type="write" key="48915">Etretat</placeName>. September 5. 1882.
+               Tuesday</p>
+            <p> Went to see the house that was burnt yesterday. Coming home we met an old pedlar who
+               was selling baskets and who told us long stories in French and German <hi rend="dc">&#x201e;Ja bei Grosmotta daß war schön, ja, ja, ja, da haben wir uns amüsiert. Ja wohl
+                  mein Sohn ist Officier. Ja, ja, ja. Ich bin in der ganzen Welt gewesen. Ja, ja..
+                  Als mein Mutter am sterben lag</hi> (with a grin) <hi rend="dc">hat sie Adam
+                  gerufen und hat ihren Finger auf ihre Nase gelegt, so</hi> (putting his finger on
+               his nose as if he wanted to flatten it) <hi rend="dc">ja, ja.&#x201c;</hi> He told us his
+               name was <persName key="1145">Adam Schmidt</persName>. He was very amusing and seemed
+               very pleased to see his cart.</p>
+            <p>
+               <note type="com">Das deutsche Zitat ist in Deutscher Schrift geschrieben.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

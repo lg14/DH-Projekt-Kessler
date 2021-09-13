@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194541">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-11-04">4.11.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>4.11.1882 Samstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. November. 4. 1882</p>
+            <p> Ball at the <persName key="1165">Schröders</persName>. Went to the hairdresser to have my hair arranged a little.
+               He pomatomed, and washed, and cosmetiqued it till I might have used it instead of an
+               umbrella, and then rubbed it with a very ill looking and smelling towel. <persName key="856">Aunt Lulu</persName> came to fetch me when I was dressed and off I went
+               to the Schröders. As soon as I got there I was introduced to and asked to dance with
+               a whole row of girls, with awful names, in the right sense of the word, who were
+               sitting around the room bolt upright not saying a word, and I was very glad to find
+               some old aquaintances. <persName key="1166">Asher</persName> was there, looking
+               rather more skeletonly, if such a thing is possible, than ever, did not know a soul,
+               did not want to know a soul, didn&#x2019;t want to dance (because he was afraid of breaking
+               his shirt front); the truth is that he could not find anybody to dance with him on
+               account of his looks: everybody called him the bat, and one of his most marvellous
+               feats was his serving of the cream with his fingers. I danced a good deal with
+                  <persName key="1153">Belle Haspberg</persName>, who is very nice; but the
+               prettiest girls there were the Busse&#x2019;s<note type="reg">
+                  <persName key="1609">Alice</persName>, <persName key="4199">Berta</persName>, <persName key="73084">Frieda</persName>, <persName key="1225">Lilly</persName> und <persName key="4692">Mary</persName>
+               </note> who looked sweet. I took <persName key="1153">Belle</persName> to dinner and after dinner, as the piano player had
+               gone away, one of us began playing; but it was impossible to dance to this music, and
+               so little idea had the boy of how a waltz ought to be played that he went off into a
+               polka; in trying to dance to this beautiful potpoury I distinguished myself by
+               sprawling down with <persName key="1168">the little Schröder</persName>. And after
+               this feat I went away after a very pleasant evening. I drove to <persName key="856">aunt Lulu&#x2019;s</persName>, to sleep there, so as not to keep the Blümers<note type="reg">
+                  <persName key="1163">Auguste</persName> u. <persName key="1162">Wilhelm</persName>
+               </note> up the whole night. <persName key="856">Aunt Lulu</persName> was still up;
+               and I went to bed in her stranger&#x2019;s-room.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

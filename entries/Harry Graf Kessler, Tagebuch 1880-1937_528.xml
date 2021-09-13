@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="160973">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-14">14.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>14.8.1885 Freitag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi</placeName>
+               <orgName key="49369">Kaltbad</orgName>. August 14. 1885 Friday</p>
+            <p>Played with Baby<note type="reg">
+                  <persName key="104">Brion, Wilma</persName>
+               </note> and read at the music in the morning. Afterwards I walked to the Känzli and
+               wrote to young <persName key="7851">Schwabach</persName>
+               <note type="reg">Paul</note>. Then I played ball with <persName key="104">Gee</persName>. She laughed a good deal and was very amused. <persName key="103">Mamma</persName> sat writing. After dinner sat with <persName key="104">Gee</persName> down at the music and read the <name type="work" key="28732">Lendemain de la Mort</name>
+               <note type="reg">
+                  <persName key="81660">Figuier</persName>
+               </note>. Also talked with <persName key="1878">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Delfosse</persName> about Auvergne and Auvergnat. He said the country was
+               most interesting and the language very soft. After this walked out with <persName key="103">Mamma</persName>. First saw the châlet which seems very nice and has 8
+               rooms. Then went on the way to First. We were not very far when we saw dear little
+                  <persName key="104">Baby</persName> running after us and <persName key="536">Marie</persName> behind her. As she stood admiring the painting bear with the
+               spectacles <persName key="1855">Kuseberg</persName> came up and after long
+               marchendeing he bought it for her and gave it her afterwards in the <orgName key="49369">hôtel</orgName>. Unfortunately he walked with us the whole time so
+               that we were glad to get home. We had not been home long when <persName key="1876">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Langley </persName>came up to see the Alpenglühen from the balcony. Of
+               course she stuck till 7.20. At supper she almost had a row with <persName key="1879">old Langley</persName> because she very tactlessly asked <persName key="103">Mamma</persName> to get her half a pound of bonbons at <placeName key="49287">Lucerne</placeName> in the short time she had there. <persName key="1879">Old
+                  Langley</persName> got furious and said he had never seen such a tactless woman.
+               After dinner sat a little with <persName key="103">Mamma</persName> and <persName key="104">Gee</persName> while they were going to bed, and <persName key="104">Gee</persName> lay a little in <persName key="103">Mammas</persName> bed
+               afterwards and I talked to her. She showed me her foot and was very amusing. Bought
+               presents for Blümers<note type="reg">
+                  <persName key="1163">Auguste</persName> und <persName key="1162">Wilhelm</persName>
+               </note> in the afternoon and got <persName key="104">Gee</persName> a Schweizerhaus
+               with which she was very pleased. 1525 people died in Spain of cholera.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

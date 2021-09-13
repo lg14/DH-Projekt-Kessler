@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="193426">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName key="80103" type="write">Bad Harzburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-06-03">3.6.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>3.6.1884 Dienstag</head>
+            <p>
+               <placeName key="80103" type="write">Harzburg</placeName>
+               <note type="reg">
+                  <placeName key="80103">Bad Harzburg</placeName>
+               </note>. June 3. 1884. Wednesday</p>
+            <p>Started from <placeName key="49069">Hamburg</placeName> at 8.22 this morning. Arrived
+               here at 2. Had table d&#x2019;hote then went down to the promenade and got two horses.
+                  <persName key="856">Aunt Lulu</persName> took two men and a stone to get her on.
+               We went to the top of the Burgberg with the column<note type="reg">
+                  <persName key="24">Unbekannt</persName>, <name key="36627" type="work">Canossa-Säule</name>
+               </note> with &#x201e;Nach Canossa gehen wir nicht&#x201c; on it and the two
+               Walküren. From there we went through the most beautiful forest to the Rabenklippen
+               from where we had a beautiful view of the Brocken. Then we rode on to the Sennhütte
+               got off near the Philosophenweg and walked home by it. There is a fearful storm while
+               I am writing this. It is pouring. I hope it will be finer tomorrow: It is thundering
+               and lightning fearfully. We are living at the <orgName key="6684">Actien-hotel</orgName>. Very dear and not particularly good. The storm is
+               fearful. The rolling of the thunder is almost uninterrupted. As we were very late in
+               starting from <placeName key="49069">Hamburg</placeName>
+               <persName key="856">aunt Lulu&#x2019;s</persName> hatbox chose the very minute when we were
+               taring madly along the platform for letting it&#x2019;s bottom come out so that we had to
+               rush on one with the hat the ribbons streaming behind the other with the pieces of
+               the hatbox to catch the train. Arrived here <persName key="856">aunt Lulu</persName>
+               found that her ink bottle which she had put into her trunk had broken and made
+               everything black; so she tried to mop it up with the hotel towel which did not do any
+               good and only blackened the towel so that she had to sit up half the night washing it
+               and had a grand fight with the hotel people who wanted to charge her for it. Then her
+               &#x201e;réveil matin&#x201c; which she had set on 7.30 the next morning woke her at four at which
+               time she got up and rung violently for the maid and abused her for not waking her as
+               it was already nine. So we are living in violent strife with all the hotelpeople.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

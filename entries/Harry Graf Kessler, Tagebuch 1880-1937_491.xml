@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194648">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49313">Kopenhagen</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-24">24.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>24.5.1885 Sonntag</head>
+            <p>
+               <placeName type="write" key="49313">Copenhagen</placeName> May 24. 1885</p>
+            <p>Got up early and breakfasted. Horrible Coffee. Changed rooms as <persName key="856">aunt Lulu</persName> insisted upon it; are now on the 4<hi rend="sup">th</hi>
+               story; de Charybde en Scylla. Went to Rosenborg. The streets are dreadful here. No
+               pavement. Only stones. Rosenborg is pretty; fine trees but nothing very
+               extraordinary. Saw the ruins of Christiansborg. Went to the <placeName key="57025">Frauenkirche</placeName>. <persName key="1022">Thorwaldssens</persName>
+               <name type="work" key="28835">Christ</name> is splendid. The <placeName key="57025">Church</placeName> is fine too. From there up the runde Turm. Beautiful view.
+               From here to <orgName key="66991">french Restaurant</orgName>; very good breakfast.
+               Then to <orgName key="66992">Thorwaldsen Museum</orgName>. His <name type="work" key="28837">little fischer</name> pleased me particularly. From here to the Lange
+               Linie. Magnificent view all over the sund as far as Klampenborg. All the large Ships
+               passing. The sea azure blue. From here to the Steamers bureau which was shut, and to
+               Amalienborg and the <placeName key="57029">Marmorkirche</placeName>. Then took cab to
+               station and from there to Klampenborg, where we dined at <orgName key="66995">Gillerups</orgName> in the Tiergarten; also good. Afterwards walked in the
+               Tiergarten. All the houses are built in the forest which is simply magnificent. One
+               of the finest I have ever seen. Back by Steam tram to Tivoli which was shut. Before
+               Klampenborg also went to <name type="work" key="58050">Panorama</name>. I have been
+               disappointed in <placeName key="49313">Kopenhagen</placeName> by the town and mans
+               work except <persName key="1022">Thorwaldsens</persName>, but the scenery is finer
+               than I expected, indeed very beautiful. The forests and fields reaching right down to
+               the sea, with its magnificent colouring.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

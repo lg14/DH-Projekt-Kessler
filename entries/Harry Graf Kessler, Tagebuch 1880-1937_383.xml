@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="156087">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1883-06-24">24.6.1883</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>24.6.1883 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName> 24. June 1883. Sunday</p>
+            <p>Went to <placeName key="59496">Wandsbeck</placeName> to <persName key="1184">Nita&#x2019;s</persName>. In the train from <placeName key="59496">Wandsbeck</placeName>
+               to Groß Juthorn there was an old Jew who had paid 25 Pfennigs for the one tram and
+               was now told to pay 6 more. He kicked up as much row as if he was going to be hung.
+                  <hi rend="dc">&#x201e;Es ist eine Schinderei, eine Schinderei, ich werde es der Direktion
+                  melden, Ich kenne die Direktion, es is ja eine Schinderei.&#x201c;</hi> he howled at the
+               top of his voice through the whole carriage. <persName key="1181">Willy
+                  Kempff</persName>, and the <persName key="1239">Hartmeyer&#x2019;s</persName> were at
+                  <persName key="1184">Nita&#x2019;s</persName>. In the evening we saw a very curious scene
+               in the forest: a drunken lover and his bride. He had got her around the waist and
+               reeled about with her in a most comical way. This morning I went to the <placeName key="56623">English Church</placeName>, into <persName key="10989">Pearson</persName>&#x2019;s pew. I had not been in long before another man stalked in; I
+               was of course very uncomfortable, as I know nobody but <persName key="1240">Dickens</persName>, thinking it was his brother. But it turned out to be a German
+               who was just as frightened of me as I was of him.</p>
+            <p>
+               <note type="com">Die Rede des Juden ist in deutscher Schrift geschrieben.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

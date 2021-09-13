@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="150494">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-11-12">12.11.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>12.11.1881 Samstag</head>
+            
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> . 12. November. 1881.
+               Saturday.</p>
+            <p>This morning we started for the choir expedition. We went down to <placeName key="49050">London</placeName> by the 8.45 train and got there about 9. We
+               directly took 2 busses and drove to the Houses of Parliament but finding that they
+               were not yet open we went in to <placeName key="56690">Westminster Abbey</placeName>
+               where we heard the beginning of the morning service. Then we went back to the houses
+               of Parliament and were let in by the Victoria tower. The rooms were splendid,
+               decorated with frescos, gilding, woodcarving and other ornaments. We first came to
+               the queens<note type="reg">
+                  <persName key="9544">Victoria I.</persName>
+               </note> robing room in which there is a very fine throne. We then went through
+               various smaller rooms and at last came to the where we saw another very fine throne.
+               All the seats are covered with red leather. then we were taken through various
+               passages decorated with beautiful frescoes to the house of Commons which looks very
+               mean after the house of Lords. We there saw the bar by which <persName key="1036">Bradlaugh</persName> had been stopped the last time he tried to enter the house
+               by force. Then we went into a law court where <persName key="1037">Lord
+                  Coleridge</persName> was sitting. <persName key="1036">Bradlaugh</persName> was
+               also there. He looked very fat and mean and altogether disgusting. We afterwards went
+               into some more law courts and into the court of exchequers where rather an amusing
+               case. about forgeing a signature, was going on. Westminster hall struck me as being a
+               very fine place. We afterwards went down the Thames to London-bridge in the same boat
+               as <persName key="5696">Gladstone</persName>. We then saw a chrysanthemum show said
+               to be the finest in the world; some of the chrysanthemum were very pretty. We also
+               bought some tortoises and other reptiles at Greens in <placeName key="59635">Covent Garden</placeName>. We had a very good dinner a 2/ a head at
+                  <orgName key="66955">the Horse Shoe hotel</orgName>. Then we walked to the
+                  <orgName key="66956">Prince of Wales&#x2019; theatre</orgName> and saw the &#x201e;<name type="work" key="28485">Colonel</name>&#x201c;<note type="reg">
+                  <persName key="18864">Burnand</persName>
+               </note> which takes the aesthetes off beautifully. After the <name type="work" key="28485">Colonel</name> we went to <orgName key="66957">Madame
+                  Tussauds</orgName> and saw the wax works. I was quite taken in by a wax policeman.
+               We then drove for to a chemists where we ordered some Sodium and some potash for
+               experiments; then we drove to Waterloo station and took the train to <placeName key="49097">Ascot</placeName> where we arrived at about 10.30. Those of the choir
+               who are in the first div. (I included) went down to the terrapyn pool house and put
+               the animals we had bought at <persName>Green&#x2019;s</persName> into and round about it and
+               afterwards had some &#x201e;negus&#x201c; and went to bed. We posted a letter, to <persName key="695">Mackenzie</persName>, signed Eliza Wicks<note type="com">Von den
+                  Schülern erfundene Person.</note> who is supposed to be an old friend of his
+               mothers. He firmly believes in her. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="174964">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-21">21.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>21.5.1885 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. May 21. 1885</p>
+            <p>Postcard from <persName key="103">Mamma</persName>. <persName key="104">Gee</persName> a little better; the doctors now hope to save her. While I think
+               of it I shall make some notes about <name type="work" key="28586">Roland</name>
+               <note type="reg">
+                  <persName key="103">Kessler</persName>
+               </note>. He came out on
+               the 15<hi rend="sup">th</hi> of April and 6 éditions of five thousand (5000) numbers
+               each were sold in the first week. The success was enormous. All the papers full of
+               who <persName key="103">Ary Ecilaw</persName> is; even English papers write about it.
+               It is going to be translated into English and Swedish. <persName key="80966">Countess
+                  Fürstenberg</persName>
+               <note type="reg">vermutl. Dolly</note> who is one of the persons meant in it came to <placeName key="49096">Paris</placeName> on purpose to find out who <persName key="103">Ary
+                  Ecilaw</persName> is. <orgName key="67188">Lemerre</orgName> pays <persName key="103">A. E.</persName> 500 francs for every edition, 10 centimes for every copy
+               that is sold. Not much, but toujours quelquechose. Despatch saying that dear little
+                  <persName key="104">Gee</persName> is getting slowly better (successive
+               besser.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

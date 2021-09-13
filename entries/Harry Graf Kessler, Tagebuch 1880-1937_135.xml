@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="229268">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-07-04">4.7.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>4.7.1881 Montag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> July 4 1881</p>
+            <p>This morning we drove away at 9 and started for the Devils Punch bowl which is about
+               22 miles off; there was one big brake in which I was and 2 smaller ones but as all
+               the boys could not get in <persName key="760">M<hi rend="ul.2">
+                     <hi rend="sup">rs</hi>
+                  </hi> Kynnersley</persName> and 6 boys had to go in another carriage. It was very
+               hot being 92 Farh. in the shade and 120 in the sun. It took us rather more than 4
+               hours to get to the place as none of the drivers knew the way and we were hardly
+               rewarded for the squash by 2 or 3 fine views into Surrey. When we got there we had a
+               picnick. G! but what a picnick! without a bit of shade there we sat in the broiling
+               sun drinking dirty tepid water which had been brought from the next inn which was a
+               mile off in an old tin kettle which had come from <placeName key="49097">Ascot</placeName> with us trailing on the ground without a lid and which was
+               consequently full of dust. However it was better than nothing and so we were quite
+               content with that as it was quite a relief from the boiling ginger beer and ale which
+               we had had before. We had tea at an inn as our diner experiences had not been very
+               pleasant..There was a murder committed at the Punch bowl there is a cross to mark the
+               place, a mound to mark the gallons and a stone and inscription to mark the spot was thrown into the
+                  <placeName>punch bowl</placeName>. I had the courage to go to the bottom of it and
+               was rewarded by finding some pummistone. We saw the comet which was very bright while
+               coming home and rejoiced our ears by having &#x201e;<name type="work" key="36566">Grandfather&#x2019;s clock</name>&#x201c;<note type="reg">
+                  <persName key="18848">Work</persName>
+               </note> and ghost stories bawled into them</p>
+         </div>
+      </body>
+   </text>
+</TEI>

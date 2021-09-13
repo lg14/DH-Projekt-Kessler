@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194606">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49313">Kopenhagen</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-29">29.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>29.5.1885 Freitag</head>
+            <p>
+               <placeName type="write" key="49313">Copenhagen</placeName>. May 29. 1885. Friday.</p>
+            <p>Arrived back here at three. I slept pretty well in the train. The train from
+                  <placeName key="80179">Göteborg</placeName> to <placeName key="49335">Malmö</placeName> passes by numberless lakes and the journey is rather
+               interesting. At 5 we arrived at the Wettern lake. It really is enormous at <placeName key="49337">Jönköping</placeName> one can not see across and might think it was
+               the sea. We arrived at <placeName key="49335">Malmö</placeName> at 1.30. and directly
+               went down to the <placeName key="49313">Copenhagen</placeName> boat in the most
+               dreadful heat. The crossing was very good and took about one hour and twenty five
+               minutes. We first drove to the <orgName key="66990">Hotel d&#x2019;Angleterre</orgName> where we took
+               rooms and dined at Table d&#x2019;Hôte and then went to the Poste Restante where there was a
+               letter from <persName key="176">Papa</persName> for me. Then we went to
+                  Frederiksberg a large garden near <placeName key="49313">Copenhagen</placeName> and from here to the Tivoli
+               where we went in the underground railway, carrousel swing etc. and listened to the
+               Music, which was very fair.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194564">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName key="49396" type="write">Wernigerode</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-06-06">6.6.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>6.6.1884 Freitag</head>
+            <p>
+               <orgName key="66857">Rosstrappe Hotel</orgName>
+               <note type="reg">
+                  <placeName key="49396" type="write">Wernigerode</placeName>
+               </note>. June 6. 1884.</p>
+            <p>Walked up the Lindenberg this morning in <placeName key="49396">Wernigerode</placeName>, from where there is a very fine view on to the castle
+               and town. We then went down the Burgstrasse where I bought a very nice little stick
+               for 90 pf. We had already ordered our carriage, so when we came home after having
+               breakfasted we drove away to Rübeland. The road went through <placeName key="49404">Eltingerode</placeName>, where we saw the <placeName key="66855">Blaue
+                  Engel</placeName> in which <persName key="856">aunt Lulu</persName> was almost
+               eaten up by fleas last time she was here. From there we drove to the hotel <placeName key="66856">Grüne Tanne</placeName> in 30 minutes. From the <orgName key="66856">Grüne Tanne</orgName> we had to go up a rather steep hill to the Bauman&#x2019;s Höhle a
+               large grotto but not so large as Remouchamps. We walked in a kind of procession. The
+               guide first the <persName key="856">aunt Lulu</persName> and last a young couple in
+               their honeymoon They did nothing but call each other &#x201e;Liebchen&#x201c; and &#x201e;Mäuschen&#x201c; and
+               &#x201e;Engel&#x201c; etc. Each of us men had a lamp; the guide also lit some limelight in some
+               places. From Rübeland we drove on to <placeName key="49406">Treseburg</placeName>.
+               The way down to <placeName key="49406">Treseburg</placeName> is one of the most
+               beautiful in the Harz. On both sides are high mountains covered with firtrees etc.
+               which look like feathers in the distance, and down in the valley the Bode rushes
+               through. On the way to <placeName key="49406">Treseburg</placeName> we went up to the
+               Wilhelmsblick from which one can see the Bode for a long way. Down at <placeName key="49406">Treseburg</placeName> we had some very good sour milk at the <orgName key="66854">Weisse Hirsch</orgName>. From <placeName key="49406">Treseburg</placeName> we drove uphill to the Rosstrappe where we are staying this
+               night. From the Hotel we directly walked on to the Rosstrappe with the horseshoe.
+               From the Rassmannshöhe we had a beautiful view into the Bodethal on to the Teufels
+               Brücke. The scenery was wild and grand beyond description. The Hexentanzplatz we
+               could also see. From my window here I have got a very far view: <placeName key="49408">Halberstadt</placeName>, <placeName key="49409">Quedlinburg</placeName>, <placeName key="49410">Thale</placeName> etc and the
+               hills in the distance, the whole now lit by the moon, and the thousand little lights
+               of the towns and villages are very picturesque. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

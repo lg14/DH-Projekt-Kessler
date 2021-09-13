@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="325624">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-06-17">17.6.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>17.6.1882 Samstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> June 17. 1882</p>
+            <p> Played <placeName key="66809">Ascot Heath School</placeName>. We won by 7 wickets; the following
+               are the scores</p>
+            <p>
+               <note type="com">Hier sind zwei Blätter nebeneinander eingeklebt: Breite: 17,7 cm,
+                  Länge: 6,8 cm. Es folgt die Abschrift.</note>
+            </p>
+            <quote type="copy">
+               <p>
+                  <orgName key="69741">St. GEORGE&#x2019;S SCHOOL.</orgName>
+                  <lb/> 
+                              1st Innings.                  2nd Innings.<lb/>
+                  <persName key="x">L. Mortimer</persName> ...c. <persName key="x">Bowyer</persName>, b. <persName key="x">M. Hudson</persName> 1...b. <persName key="x">Bowyer</persName> ........... 3<lb/>
+                  <persName key="x">J. O. Hichens</persName>, b. <persName key="x">Bowyer</persName> ............. 4 ..b. <persName key="x">Bowyer</persName> ........... 3<lb/>
+                  <persName key="x">L. S. Sellon</persName> ..b. <persName key="x">Bowyer</persName> ............. 0 ..b. <persName key="x">Bowyer</persName> ........... 2<lb/>
+                  <persName key="x">F. W. Wormald</persName>, c. <persName key="x">Abbot</persName>, b. <persName key="x">Dyke</persName> ..... 0 ...not out ............ 5<lb/>
+                  <persName key="x">J. M. Waston</persName>, b. <persName key="x">M. Hudson</persName> ........... 5 ...not out ............ 8<lb/>
+                  <persName key="x">T. S. Hichens</persName>, b. <persName key="x">Bowyer</persName> ............. 3<lb/>
+                  <persName key="547">L. W. Palk</persName> ....not out ............... 9<lb/>
+                  <persName key="x">O. Whittaker</persName>, run out ................ 0<lb/>
+                  <persName key="x">N. E. C. Bald</persName> .b. <persName key="x">M. Hudson</persName> .......... 4<lb/>
+                  <persName key="x">H. D. Thomson</persName>, b. <persName key="x">Bowyer</persName> ............. 0<lb/>
+                  <persName key="x">C. H. Mortimer</persName>,b. <persName key="x">Bowyer</persName> ............. 3<lb/>
+                               Extras .............11      Extras .......... 3<lb/>
+                                         Total.....40       Total.......... 24<lb/>
+                  <orgName key="66809">ASCOT HEATH SCHOOL</orgName>
+                  <lb/> 
+                              1st Innings.                  2nd Innings.<lb/>
+                  <persName key="x">W. Dyke</persName> ...... b. <persName key="x">Sellon</persName> ............ 4...c. <persName key="x">Watson</persName>, b. <persName key="x">Sellon</persName> ...... 2<lb/>
+                  <persName key="x">E. Bowyer</persName> .... b. <persName key="x">Watson</persName> ............10...b. <persName key="x">Watson</persName> ................. 0<lb/>
+                  <persName key="x">A. Wye</persName> ...... b. <persName key="x">Sellon</persName> ............. 0...b. <persName key="x">Sellon</persName> ................. 1<lb/>
+                  <persName key="">M. Hudson</persName> .... b. <persName key="x">Watson</persName> ............ 0...c. <persName key="x">Bald</persName>, b. <persName key="x">Watson</persName> ........ 5<lb/>
+                  <persName key="x">A. Wheeler</persName> .. b. <persName key="x">Watson</persName> ............ 1...c. <persName key="x">T. S. Hichens</persName>, b. <persName key="x">Sellon</persName> 0<lb/>
+                  <persName key="x">F. Agar</persName> ..... 1. b. w., b. <persName key="x">Watson</persName> ... 3...run out .................. 18<lb/>
+                  <persName key="x">J. Clements</persName>,.. c. <persName key="x">Watson</persName>, b. <persName key="x">Sellon</persName> . 7...run out ................... 0<lb/>
+                  <persName key="x">H. Osman</persName>, .... b. <persName key="x">Watson</persName> ............ 0...b. <persName key="x">Watson</persName> ................. 4<lb/>
+                  <persName key="x">A. Higgs</persName> .... b. <persName key="x">Watson</persName> ............. 1...b. <persName key="x">Sellon</persName> ................. 0<lb/>
+                  <persName key="x">G. Abbot</persName> .... b. <persName key="x">Sellon</persName> ............. 0...run out ................... 0<lb/>
+                  <persName key="x">G. Hudson</persName> ... not out ............... 0...not out ................... 0<lb/>
+                              Extras ............ 4           Extras ............ 3<lb/>
+                  Total.....30              Total.......... 33</p>
+            </quote>
+         </div>
+      </body>
+   </text>
+</TEI>

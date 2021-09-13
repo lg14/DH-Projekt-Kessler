@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="192626">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-05-08">8.5.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>8.5.1884 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName> May 8<hi rend="ul.2">
+                  <hi rend="sup">th</hi>
+               </hi> 1884. Thursday</p>
+            <p>This evening <persName key="1157">Martin</persName>, <persName key="1303">Miss
+                  Freise</persName> and I and <persName key="1240">Dickens</persName> went for a
+               walk <persName key="1157">Martin</persName> and I with top hats, lorgnettes and long
+               Overcoats. We went to <persName key="81754">Klauckes</persName> and to <persName key="1304">Miss Becks</persName>. At <persName key="1307">Becks&#x2019;s</persName> I
+               rang and asked whether <persName key="1305">miss Klaucke</persName> lived there, The
+               servant seemed quite bewildered. At <persName key="1248">
+                  <hi rend="dc">Schwere&#x2019;s</hi>
+               </persName> I rang
+               but as soon as <persName key="81588">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi>
+                  <hi rend="dc">Schwere</hi>
+               </persName> came out <persName key="1157">Martin</persName> ran away;
+               this was very unpleasant as I had to speak to <persName key="81588">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi>
+                  <hi rend="dc">Schwere</hi>
+               </persName> alone.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

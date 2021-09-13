@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194215">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-11-04">4.11.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>4.11.1880 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> 4<hi rend="ul.2">
+                  <hi rend="sup">th</hi>
+               </hi> November 1880 Thursday.</p>
+            <p>Today Bonnemaman<note type="reg">
+                  <persName key="362">Lynch, Caroline</persName>
+               </note> came to see me and brought me a dreadful shock. Poor dear Grandmama<note type="reg">
+                  <persName key="744">Kessler, Henriette</persName>
+               </note> in <placeName key="49069">Hamburg</placeName> is dead from a fall which she
+               had on Monday and which proved fatal. To think that an unfortunate step can bring
+               death! <persName key="176">Papa</persName> is in <placeName key="49069">Hamburg</placeName> because as soon as he heard of the accident he went there. I
+               hope it will not shake him too greatly for he loved her so dearly! and she was so
+               good. She died on the 2<hi rend="ul.2">
+                  <hi rend="sup">d</hi>
+               </hi> of November</p>
+         </div>
+      </body>
+   </text>
+</TEI>

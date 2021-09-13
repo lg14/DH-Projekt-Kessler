@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="169536">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-05-22">22.5.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>22.5.1884 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. May 22. 1884. Ascenscionday.
+               Thursday.</p>
+            <p>Received a letter from <persName key="362">Bonnemamman</persName> this morning. She is better I am glad to see. Went to Teufelsbrück in the
+               afternoon. Started from here at about three. Drove to the Georgsplatz and from there
+               walked to the harbour, where we took a small steamer. Saw the &#x201e;Paradox&#x201c; the ship
+                  <persName key="1156">Robert</persName>
+               <note type="reg">Blümer</note> is to sail in
+               on the way to Teufelsbrück. In Teufelsbrück we went to a restaurant and sat out on
+               the terrace. Afterwards I walked a little with <persName key="1156">Robert</persName>
+               and <persName key="1157">Martin</persName>
+               <note type="reg">Blümer</note>. We started
+               from Teufelsbrück at six and got out at the Landungsbrücke in <placeName key="57244">S<hi rend="ul.2">
+                     <hi rend="sup">t</hi>
+                  </hi> Pauli</placeName>; We walked home through the hafen. I in vain looked for
+               the shop with the elegant inscription &#x201e;Hospital for broken pipes&#x201c; which I saw last
+               time I was there, with <persName key="4804">Paul</persName>
+               <note type="reg">Blümer</note>. On the whole I spent a very pleasant day. I finished <persName key="1199">Gibbons</persName>
+               <name type="work" key="28474">Memoirs</name> today, and very interstíng they are; but
+               I think some of all that long writing and rewriting about the sale of his house at
+                  <placeName key="49489">Beriton</placeName> and about his money matters might have
+               been omitted, as there really is no earthly interest in it for any living, breathing
+               human being. I read <persName key="8186">Macaulay&#x2019;s</persName>
+               <name type="work" key="28475">essay on history</name> afterwards. Such an historian
+               as he describes would indeed be a great historian. How I wish I could be such a one.
+               The history of England so written would be the most intersting historical work in the
+               world, I should think.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

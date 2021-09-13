@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="193424">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-07-06">6.7.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>6.7.1882 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> July 6. 1882.
+                  Thursday.</p>
+            <p> Choir expedition. We started for <placeName key="48973">Portsmouth</placeName> by
+               the 8.57 train. At <placeName key="48930">Woking</placeName> we had to change. We got
+               to <placeName key="48973">Portsmouth</placeName> at about 1 o&#x2019;clock and immediately
+               went on board. It was raining hard all the time we were on the boat and from time to
+               time we shipped some heavy seas; We saw the &#x201e;Victory&#x201c;, the frigate <persName key="8345">Nelson</persName> was killed on, in <placeName key="48973">Portsmouth</placeName> harbour. As soon as we got to <placeName key="48974">Ryde</placeName> we went to the station and went to <placeName key="48975">Shanklyn</placeName>. At <placeName key="48975">Shanklyn</placeName> we
+               immediately took a &#x2019;buss and drove to the <orgName key="66810">Chine Hotel</orgName>
+               where we unpacked our hampers and had dinner as it was too wet to picnic on the
+               beach. After dinner we went down to the beach and up the cliffs to the Chine which is very beautiful; there is a high cascade
+               and on each side of this cascade are huge rocks overgrown with green. When we got
+               down on to the beach again we were attacked by a photographer who would insist upon
+               photographing us; the group was pretty good and I ordered two copies. After being
+               photographed we bathed. The sea was rather rough and we were frightfully knocked
+               about; after my bath I had some trouble in getting the sand out of my feet. After
+               this we immediately had tea; then I went down town and got some photographs and by
+               this time it was so late that we nearly missed the train, especially as the coachman
+               suddenly stopped and asked whether <persName key="706">Mortimer mi.</persName> was
+               inside the carriage. At the station we bought a large basket of strawberries for 3
+               shillings. On our way back we saw a great many soldiers at all the stations we passed
+               evidently going to the war. At <placeName key="49050">London</placeName> we got the
+                  <name type="periodical" key="70795">Evening Standard</name> which had nothing but that a
+               Rising was expected in <placeName key="48976">Ireland</placeName>, and that the
+               English ships at <placeName key="48977">Alexandria</placeName> were being cleared for
+               action, while the French government had ordered its ships to withdraw. We got home at
+               about half past eleven.</p>
+            <p>
+               <note type="com">Auf einer Seite sind zwei Fotografien eingeklebt. Die erste
+                  ist beschriftet mit &#x201e;<placeName key="48975">Shanklin</placeName> beach&#x201c;, die
+                  zweite mit &#x201e;<placeName key="48975">Shanklin</placeName>
+                  Chine&#x201c;.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

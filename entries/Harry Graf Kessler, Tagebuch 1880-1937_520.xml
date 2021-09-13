@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194631">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-06">6.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>6.8.1885 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName> August 6. 1885. Thursday.</p>
+            <p>Worked at the Känzli in the morning and began my direction West to the Scheideck by
+               rail in the afternoon. Got caught in a fearful shower so that we did not see much.
+                  <persName key="1863">Valentin</persName> told his unavoidable Bonaparte
+                  story and proposed himself as the Chirany Chatanoj in Noahs ark when the
+               carriage was darkened. When we came home found traité from <orgName key="67188">Lemerre</orgName> and his accounts. He gives <persName key="103">Mamma</persName>
+               2195 francs but says he is going to give her more. He pays her 40 centimes a volume
+               for the first 2000, 50 c. for numbers 2000 to 10000 and 60 c. for all over 10000.
+               Read <name type="work" key="28748">Madame de Mineleko</name> in the evening.. Cholera
+               came to <placeName key="48967">Marseilles</placeName>. Over 40.000 people have died
+               and 10000 been attacked in Spain already. Much worse than last year when only 20,000
+               died in Spain (500), France and Italy together. Political horizon rather black.
+               England and Russia again rather quarrelsome. France and Germany not on best terms. I
+               am reading the <name type="work" key="28729">Société de Londres</name> by a
+               &#x201e;Diplomate Etranger&#x201c;<note type="reg">
+                  <persName key="4200">Vasili</persName>
+               </note> well written and interesting.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

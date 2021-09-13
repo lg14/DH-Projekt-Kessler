@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="174956">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-03-29">29.3.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>29.3.1885 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. March 29. 1885 Sunday.</p>
+            <p>My confirmation. From home I first drove with the pastorin<note type="reg">
+                  <persName key="1163">Blümer, Auguste</persName>
+               </note> to <persName key="856">aunt Lulu&#x2019;s</persName> and took her and <persName key="1170">uncle Fritz</persName> to the <placeName key="x">church</placeName>.
+               Fearful row in the carriage; <persName key="856">aunt Lulu</persName> and <persName key="1170">uncle Fritz</persName> fighting like cat and dog. At last <persName key="1170">uncle Fritz&#x2019;s</persName> top hat fell into a puddle as he got out of
+               the carriage. Then drove to <orgName key="x">Hotel</orgName> to fetch <persName key="176">Papa</persName> and from there back to <placeName key="x">church</placeName>. <persName key="176">Papa</persName> went into the <placeName key="x">Church</placeName>, I into the so called Sacristei, where we all were
+               assembled. Then <persName key="1607">Spörri</persName> came in and led the way into
+                  <placeName key="x">Church</placeName>, we following in single file. <persName key="176">Papa</persName> and <persName key="856">aunt Lulu</persName> sat in the
+               first row; We sat down around the altar. after <persName key="1607">Spörri</persName>
+               had said a prayer. Then after a hymn we all had to get up and answer some formal
+               questions in a kind of litany, after which we had to go forward two and two and
+                  <persName key="1607">Spörri</persName> said a few words to each of us and then
+               gave us both together a sentence out of the <name type="work" key="28611">Bibel</name>. Me &#x201e;Kämpfet den guten Kampf des Glaubens und ergreifet das ewige
+               Leben&#x201c;. We had to stand the whole time about an hour and a half. I was quite dead at
+               the end. Then he blessed us and after some music we went back into the vestry where
+               our friends came and congratulated us. I then drove to the <orgName key="x">Hotel</orgName> with <persName key="176">Papa</persName> and from there to
+                  Meyers<note type="reg">
+                  <persName key="856">Auguste</persName> und <persName key="1170">Friedrich</persName>
+               </note> where we breakfasted and I saw my presents. <persName key="176">Papa</persName> and <persName key="103">Mamma</persName> gave me a magnificent
+               gold watch and chain and a large atlas, <persName key="104">Gee</persName> a pair of
+               studs, Meyers a locket which is at the same time a seal with <persName key="103">Mamma</persName> and <persName key="176">Papas</persName>
+               <name type="work" key="x">portrait</name> in it and the <name type="work" key="28612">Frithjofssage</name>, Kempffs<note type="reg">
+                  <persName key="1223">Auguste</persName> und <persName key="1611">Georg</persName>
+               </note> golden cuffstuds and <persName key="1181">Willy</persName>
+               <note type="reg">Kempff</note>a golden pencil, Hasperg<note type="reg">
+                  <persName key="1152">Amanda</persName> und <persName key="11239">Heinrich</persName>
+               </note>
+               <name type="work" key="28936">Niebelungen</name>, Busses<note type="reg">
+                  <persName key="77704">Auguste</persName> und <persName key="77706">Friedrich</persName>
+               </note> a leather pocket book, <persName key="1184">Nita</persName> a serviette ring
+               and the children three golden studs. After breakfast all came to congratulate first
+                  Busses, <persName key="1609">Alice Busse</persName> who was confirmed on the 27 too.
+               There was chocolate for the ladies, sherry for the gentlemen. <persName key="1610">Julius Gabe</persName> came too. <persName key="176">Papa</persName> went to
+                  <placeName key="59496">Wandsbek</placeName> with <persName key="1181">Willy</persName> during that time. At half past five went to the <orgName key="x">hotel</orgName> and from there to Haspergs to dinner. Saw <persName key="1153">Belles</persName> presents. I gave her
+                  <name type="work" key="28613">&#x201e;Das Buch der Königin Luise.&#x201c;</name>
+               <note type="reg">
+                  <persName key="82959">Horn</persName>
+               </note>
+               <persName key="176">Papa</persName> and <persName key="103">Mamma</persName> flowers.
+               Great many healths at dinner. Old <persName key="1327">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Ehnett</persName> toasted <persName key="1153">Belle</persName>, <persName key="1607">Spörri</persName> me in a very pretty speech, <persName key="176">Papa</persName> Haspergs, old <persName key="1327">M<hi rend="ul.2">
+                     <hi rend="sup">r</hi>
+                  </hi> Ehnett</persName>
+               <persName key="72971">Paul</persName>
+               <note type="reg">Hasperg</note> etc. etc. After dinner it was rather stupid. Nothing
+               to be done. Walked home with <persName key="176">Papa</persName> at about 11.
+               Telegram with many happy returns of the day from <persName key="103">Mamma</persName>
+               and <persName key="104">Gee</persName> and letters from both too and from <persName key="536">Marie</persName> also a sweet little card and picture from dear little
+                  <persName key="104">Gee</persName>. At table sat between <persName key="1153">Belle</persName> and <persName key="72975">Heine</persName>
+               <note type="reg">
+                  <persName key="72975">Hasperg, Heinrich</persName>
+               </note>, <persName key="1609">Alice Busse</persName> between <persName key="72975">Heine</persName> and <persName key="1181">Willy K.</persName> very bad place.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

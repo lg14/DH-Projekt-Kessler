@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274115">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49096">Paris</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-01-08">8.1.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>8.1.1882 Sonntag</head>
+            <p>
+               <placeName type="write" key="49096">Paris</placeName> January 8. 1882 Sunday</p>
+            <p> Went to the <orgName key="80908">Gaite&#x2019;</orgName>
+               <note type="reg">
+                  <orgName key="80908">Théâtre de la Gaîté-Montparnasse</orgName>
+               </note>, where they are
+               acting &#x201e;<name type="work" key="28508">Quatre-vingt-treize</name>&#x201c;<note type="com">
+                  <persName key="18866">Meurice</persName>
+               </note>, with <persName key="537">Sophie</persName>. It is a war piece and there are
+               some fine scenes in it, the best of which are when Gawain is comdemned to death and
+               when he is beheaded. In coming home we were astonished to see a great crowd of
+               &#x201e;badauds&#x201c; assembled on the boulevards before a watchmakers shop above whose door was
+               painted a huge clock. In my astonishment and my inquisitiveness I went up to one of
+               the gravest looking people of the crowd to find out the reason of it; he quite
+               seriously answered that that clock, pointing to the one above the door, was going to
+               change the colour of it&#x2019;s face. I laughed and went away! and this was the reason for
+               a large crowd for I know the man told me the truth because everybody was talking and
+               wondering what colour the clock would turn.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

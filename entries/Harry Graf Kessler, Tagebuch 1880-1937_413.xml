@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="151160">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1884-03-02">2.3.1884</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>2.3.1884 Sonntag</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. March 2. 1884. Sunday.</p>
+            <p> Robert<note type="reg">
+                  <persName key="1156">Blümer</persName>
+               </note> has got a
+               pleurésie and is very ill. I stopped at home the whole day. In the evening I went to
+               Schwere&#x2019;s and had tea there. Before tea Gustav<note type="reg">
+                  <persName key="1247">Schwere</persName>
+               </note>, Martin<note type="reg">
+                  <persName key="1157">Blümer</persName>
+               </note> and I played
+               66. I was very unlucky. After tea <persName key="1247">Gustav</persName> and
+                  <persName key="1249">Susanne Schwere</persName> played a sonate of <persName key="8636">Beethoven</persName>. I worked a great deal at my piece today, which I
+               mean to be a kind of prayer. At the end of the first verse a choir of priests is
+               supposed to be singing the requiem. I have just begun this latter part. I was rather
+               puzzled how to tack it on to the first part; but now I think I will not make any
+               transition and let the second part come in on itself, which is certainly the most
+               natural. There is a long article about <persName key="7392">Mackays</persName> in the paper
+               today. Their law suit with <persName key="1250">Meissonnier</persName> seems to be
+               making great noise. <persName key="103">Mamma</persName> writes that her picture<note type="reg">
+                  <name type="work" key="35953">Portrait von Alice Kessler</name>
+               </note> by <persName key="1251">Kirchbach</persName> is
+               getting something awful although se sits 3 hours every day.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

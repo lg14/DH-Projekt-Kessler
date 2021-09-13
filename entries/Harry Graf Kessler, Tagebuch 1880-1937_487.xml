@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="174963">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-20">20.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>20.5.1885 Mittwoch</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName> May 20.
+      1885.</p>
+            <p>
+               <persName key="104">Gee</persName> has been very, very ill so that
+      the doctors had almost given her up but according to a letter from
+      <persName key="176">Papa</persName> to <persName key="856">aunt
+      Lulu</persName> she is a little better and has again eaten a little milk and bread
+      without vomiting it. It has again given me a little hope. I am almost well
+      again, <persName key="176">Papas</persName> tongue is still bad
+      <persName key="103">Mamma</persName> very exhausted. If only my darling
+      <persName key="104">Gee</persName> could get better. Poor little thing she
+      has such dreadful pain <persName key="103">Mamma</persName> writes, such
+      terrific headaches, she lies away complaining. And she is already so exhausted
+      by the measles. Poor little thing, what a cross she has to bear. The ice has
+      constantly to be changed. I start every time the bell goes for fear of a
+      telegramm or a letter with bad news. Whenever I see
+      <persName key="856">aunt Lulu</persName> coming it frightens me for fear
+      that something dreadful has happened. How thankful I shall be when, please God,
+      my dear, dear little <persName key="104">sister</persName> really begins to
+      get better again. I never till now thought one could expect a letter so
+      longingly and yet with such trembling as I do. Everything that happens seems an
+      omen for good or bad. This incertainty is really dreadful. I really tremble
+      ever to be without a book or something to occupy me for fear of the dreadful,
+      dreadful thoughts that arise. Oh how fervently I pray that all may end well;
+      and yet I always feel a kind of oppressing, uncomfortable uncertain feeling,
+      even when reading or working. Everything I read palls upon me and yet I cannot
+      be without a book, I wish for company and when I have it I do not like to talk.
+      Yet how small is my burden compared to that of poor
+      <persName key="103">Mamma</persName> and <persName key="176">Papa</persName> and my poor, poor dear little
+      <persName key="104">Gee</persName>. I do not wonder
+      <persName key="103">Mamma</persName> can only keep up with Quinine. It is a
+      regular relief to be able to put on paper, what one can tell nobody, write to
+      noone.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

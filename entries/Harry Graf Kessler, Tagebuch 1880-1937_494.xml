@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194649">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="80179">Göteborg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-05-27">27.5.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>27.5.1885 Mittwoch</head>
+            <p>
+               <placeName type="write" key="80179">Gothenburg</placeName>. May 27. 1885</p>
+            <p>Arrived here this morning after a dreadful passage. When I awoke I noticed the ship
+               was rolling very suspiciously; but I quickly got up threw on my clothes and went on
+               deck where sat down. The motion of the machine was so dreadful though that I began to
+               feel very funny. So I counted everything I could, trees, windmills, mountains to keep
+               my attention occupied. At last I had to rush to the side and was dreadfully sick. I
+               lay down then in the cabin and was alright till <persName key="856">aunt
+                  Lulu</persName> called me to tell me we were in <placeName key="80179">Göteborg</placeName>. I was then again dreadfully ill and was glad to get on land
+               where we drove to the <orgName key="67000">Hotel Göta Källare</orgName> (sp. Chaéllare). It was
+               the first time I set my foot on Swedish ground. Very nice
+                  <orgName key="67000">hotel</orgName>. When we had washed we went down to breakfast. After
+               breakfast wrote postcard, then jumped into a cab and drove as quickly as possible to
+               the Station to go to the Trollhättan. Just as we came into the station the train
+               whistled. I rushed onto the platform <persName key="856">aunt Lulu</persName> after
+               me. I caught hold of a door and had already opened it when a most impertinent man
+               caught hold of it and shut it before our very noses and the train steamed out of the
+               station. <persName key="856">Aunt Lulu</persName> was dreadfully excited, began to
+               cry, shrieked at me and every body else, so that It was quite fearful. At last I
+               managed to quiet her and we went back to the <orgName key="67000">Hotel</orgName>. From there to
+                  Photograph Shop and by tram to the <placeName key="57040">Slottkogen</placeName> a very pretty park near here. We walked in it a little and
+               then went back by tram and dined middlingly at the <orgName key="67000">Hotel</orgName>. After
+               dinner took a drive in a very nice little victoria. The man first drove us to a kind
+               of bellevue The way went through forests and rocks. The whole country here is covered
+               with colossal boulders two or three hundred feet high, with here and there a patch of
+               grass or a hardy tree hanging on to it. These boulders rise abruptly out of the
+               valley as if some giant had strewn them about at random. Sometimes out of fruitful
+               fields, sometimes out of a forest. Some of them are smaller, some regular mountains,
+               but all equally desolate and jugged and contrasting strangely with the fruitful
+               fields and the green forests which grow about their base. They are not single but
+               rise in regular chains from the sea on one side up to the mountain on the other; From
+               one of these boulders we had the view the coachman had driven us to see, and a fine
+               one indeed. On one side the sea cutting right into the land, the steep rocks falling
+               into it and the little red roofed houses strewn like nests around it, on the other
+               the desert and desolate mountains with hardly a tree or a bit of grass on them and
+               the fruitful valleys spreading around them. From here we drove through the town,
+               which is really very fine, to another point de vue. Not so fine as the first. On the
+               way saw lots of children. Remarkably pretty; large blue eyes, fair hair; almost all
+               go barelegged and bare footed, and it is a pleasure to see them their legs and feet
+               are so well made. In fact all Swedes are more or less handsome. I have never in my
+               life seen such a handsome set of people. Slim, tall, beautiful skin. One can see they
+               are the descendants of the Vikings of olden days. Almost all have got remarkably
+               pleasant faces. From here we drove home through the <placeName key="57040">Slottkogen</placeName>. At Home I first wrote some postcards and then went out to
+               change my photographs but did not do it as the others were too large. After this we
+               went to a kind of musical garden, if one can call the place so, and there eat some
+               ice-kagen. From there to Lorentzberg another such kind of
+               garden. After having heard some music I went in search of a nightshirt as I have
+               forgotten all mine in <placeName key="49313">Copenhagen</placeName>; but all th shops
+               were shut. Afterwards dined and eat some Knackebrö which is delicious at dinner. In
+               the morning we also went to the <orgName key="67003">museum</orgName>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194653">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49342">Helgoland</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-09-08">8.9.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>8.9.1885 Dienstag</head>
+            <p>
+               <placeName type="write" key="49342">Heligoland</placeName>.
+      September 8 1885. Tuesday</p>
+            <p>Started from <placeName key="49069">Hamburg</placeName> with
+      <persName key="856">aunt Lulu</persName> this morning at 8 by the the Freia.
+      The voyage on the Elbe was very interesting and the crossing good afterwards.
+      When we arrived we of course had to pass the Läster
+      allee. We were then beset by people offering us lodgings. We at last found
+      some in the &#x201e;<placeName key="67196">Princess Royal</placeName>&#x201c;. We then
+      dined in the <placeName key="67197">Princess Alexandra Restaurant</placeName> and
+      afterwards had ourselves drawn up to the Oberland by lift.
+      We from there saw the sun go down and then walked to the end of
+      the island along the cliffs.
+      The island is strongly indented everywhere,
+      and one need not be a geologist, to see that it is slowly crumbling away. The
+      decay seems to have got hold of the officials here too. The solitary policeman
+      and the coastguards looked quite forlorn amongst this german population. The
+      only defence of the place are five diminutive cannons, ranged behind a
+      battlement 1 foot hight, which looks as if it had sunk into the ground,
+      awstruck by the dreadful weapons of defence planted on it. I had expected to
+      find a fortress, a stronghold of England in the North Sea and I found nothing
+      but a watering place, a second Margate, where the
+      Hamburgers go for a trip. I firmly believe
+      that in its present state one small man of war might take place in half an hour
+      and hold it. By nature it is a second Gibraltar, and if
+      well defended would be imprennable but now - it is not worth
+      the purchase money <placeName key="48887">England</placeName> wants <placeName key="77826">Germany</placeName> to pay for it. The Caroline Question
+      looks blacker. They say <persName key="1891">Alfonso</persName> is doomed, and then
+      &#x2013; war is inevitable.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

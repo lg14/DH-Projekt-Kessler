@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274981">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49050">London</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1880-09-10">10.9.1880</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">16.6.1880 &#x2013; 30.4.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>10.9.1880 Freitag</head>
+            <p>
+               <placeName type="write" key="49050">London</placeName> Friday 10
+      September 1880</p>
+            <p>Today we went to <placeName key="49095">Gravesend</placeName> by boat. The way there is
+      very pretty. All along the docks, and passing by <orgName key="56700">Somerset
+      House</orgName>, the Tower and Greenwich hospital.
+      Woolwich and Shooterhill. Just before
+      <placeName key="49095">Gravesend</placeName> there is a sort of a lac by which the Thames
+      passes In <placeName key="49095">Gravesend</placeName> itself there is little to be seen
+      except the mouth of the Thames and we soon went away after having taken some
+      Appolinaris and hock at the <orgName key="66924">Clarendon hôtel</orgName>. In
+      coming to <placeName key="49095">Gravesend</placeName> one passes the place where the Bywell
+      Castle ran into the princess Alice, just opposte the Gasworks and near the the
+      powder Magazine.<note type="com">Am 3. September 1878 kollidierten an dieser Stelle die Schiffe &#x201e;Bywell
+        Castle&#x201c; und &#x201e;Princess Alice&#x201c;. 640 Passagiere kamen ums
+        Leben.</note> We had diner at <orgName key="66927">the Critirion</orgName> where we had a
+      dozen of Oyster each, kidneys and a tomatoe with Wilhelmsquelle and hock in the
+      grill room</p>
+         </div>
+      </body>
+   </text>
+</TEI>

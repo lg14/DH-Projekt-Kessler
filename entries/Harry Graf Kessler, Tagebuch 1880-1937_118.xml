@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274579">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-05-26">26.5.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">1.5.1881 &#x2013; 9.11.1881</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>26.5.1881 Donnerstag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> Thursday 26
+      May 1881</p>
+            <p>Ascension day. We went for an expedition in which we were to go by
+      railway to <placeName key="48889">Brookwood</placeName>, walk across Chobham
+      common to <placeName key="49101">Virginia Waters</placeName> from where we were to go by
+      railway home but we only got as far as <placeName key="48889">Brookwood</placeName> and the camp at <placeName key="48890">Chobham</placeName> where
+      we had to go into a &#x201e;Cantine&#x201c; on account of the rain and where as
+      <persName key="778">Uffington</persName> went in a soldier seized him and saying he was
+      not wrapped in a cloak to <persName key="706">Mortimer mi.</persName> cap and another
+      asked me wether I would have a glass of Beer with him; they all made la haie as
+      we came in. We had ginger beer near the railway and had an electric shock at
+      the signal box and made a fog signal go off by the porters pushing a truck over
+      it we came home by train from <placeName key="48889">Brookwood</placeName> the
+      necropolis (city of the dead) of <placeName key="49050">London</placeName>; whole
+      holiday</p>
+         </div>
+      </body>
+   </text>
+</TEI>

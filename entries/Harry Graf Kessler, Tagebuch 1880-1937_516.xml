@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194629">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-02">2.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>2.8.1885 Sonntag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>. August 2. 1885 Sunday.</p>
+            <p>Got up at 7.45. and after breakfast read the papers and listened to the music on the
+               Terrace till 10.30 when I had my bath. Afterwards walked with <persName key="104">Gee</persName> to the First and up a hill near it.
+               We got caught in the rain though in coming home, and had to take shelter in
+                  the First station. After Table d&#x2019;hôte again
+               listened to the music and read and then walked to the
+                  Känzli with <persName key="103">Mamma</persName>, <persName key="104">Gee</persName> and <persName key="1856">Lina</persName> who was very frightened
+               at some cows; en plus the fog suddenly came down so we had to turn back. Drank milk
+               at 5 and supped at 7. In between I numbered <name type="work" key="28586">the english
+                  Roland</name>
+               <note type="reg">
+                  <persName key="103">Kessler</persName>
+               </note>. After Supper there were very fine fireworks which <persName key="104">Gee</persName> came out to see in her nightgown. Afterwards a house was
+               carried about with pictures of judges, priests etc. in a court of justice and some
+               thing about a &#x201e;heiliges Strumpfband&#x201c; and &#x201e;3 Tage Arrest&#x201c; and Reporters.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

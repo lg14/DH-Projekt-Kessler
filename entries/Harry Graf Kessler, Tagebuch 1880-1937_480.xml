@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194644">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49025">Berlin</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-04-01">1.4.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.4.1885 Mittwoch</head>
+            <p>
+               <placeName type="write" key="49025">Berlin</placeName>. April 1. 1885.</p>
+            <p>This morning the first thing we did was again to go to the Wilhelm Strasse where we
+               saw a huge pyramid of fruit and flowers and vegetables being carried in to <persName key="8568">Bismarcks</persName> on a stretcher. Afterwards went to see the
+               beginning of the <placeName key="58049">Reichstags building</placeName>. Not much to
+               be seen, as it is hardly begun. From there we went to the <orgName key="x">Hotel de
+                  Russie</orgName> or some such name near the Spree and had breakfast. From there to
+               the Rathaus. Very fine and worth seeing. After that
+                  <persName key="856">aunt Lulu</persName> went to the <orgName key="66875">National
+                  Gallery</orgName> and I to the <orgName key="68127">Museum</orgName>
+               <note type="reg">Altes und Neues Museum</note>. Was very tired so that I could hardly
+               enjoy it. Saw the really <hi rend="ul">magnificent</hi> picture of Holzschuher<note type="reg">
+                  <name type="work" key="28830">Bildnis des Hieronymus Holzschuher</name>
+               </note> by <persName key="5214">Dürer</persName>. I have never in my life seen
+               anything so lifelike. He looks as if he was going to come out of his frame, without
+               any exageration. Afterwards spent a good deal of time looking at the sculptures of
+                  Pergamum<note type="reg">
+                  <name type="work" key="59415">Pergamonaltar
+                     (Berlin)</name>
+               </note> which are also splendid; I could hardly enjoy them
+               though properly today as I was so dead tired. Had to go away at five as the <orgName key="68127">museum</orgName> shuts then. Went to Table d&#x2019;Hôte at the Hotel. After that to the <orgName key="x">Deutsche
+                  Theather</orgName>, where we saw <name type="work" key="28831">Prinz Friedrich von
+                  Homburg</name>
+               <note type="reg">
+                  <persName key="8388">Kleist</persName>
+               </note>. Not very interesting.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

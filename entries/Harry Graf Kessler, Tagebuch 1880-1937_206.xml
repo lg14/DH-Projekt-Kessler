@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194251">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49097">Ascot</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1881-12-19">19.12.1881</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>19.12.1881 Sonntag</head>
+            <p>
+               <placeName type="write" key="49097">Ascot</placeName> December. 19.
+                  1881</p>
+            <p>Had a game of Prisoners base and Rounders in the morning. There was Reading over in
+               the afternoon <persName key="176">Papa</persName> and aunt Rose<note type="reg">
+                  <persName key="581">Lynch</persName>
+               </note> came. I got the French Prize
+                  &#x201e;<name type="work" key="28501">The Source of the Nile</name>&#x201c; by <persName key="1107">Speke</persName>. The following was the Report </p>
+            <p>
+               <note type="com">Hier ist der Bericht eingeklebt. Es folgt die Abschrift, wobei nicht alle Formatierungen übernommen wurden.</note>
+            </p>
+            <p>
+               <orgName key="69740">S. George&#x2019;s School</orgName>, <placeName key="49097">Ascot</placeName>. </p>
+            <p>--- </p>
+            <p>TRIALS, CHRISTMAS, 1881.</p>
+            <p>---</p>
+            <p>Report of the Examiner, Rev. <persName key="857">F. W. Macdonald</persName>, M.A.,
+                  <orgName key="80919">Queen&#x2019;s College</orgName>, <placeName key="49586">Oxford</placeName>. </p>
+            <p>To begin with the English Subjects, the Scripture which required considerable
+               thought, was fairly done throughout: In Div. I., <persName key="894">Olliver</persName>&#x2019;s paper was a long way the best. I was much pleased with the
+               neatness and good writing of Div. II.</p>
+            <p>The History was satisfactorily answered, but the knowledge of important dates is
+               still weak. <persName key="912">Blundell</persName> must pay more attention to
+               History. </p>
+            <p>In Geography, Div. III. was weak.</p>
+            <p>The Mathematical papers were not done quite as well as last time, there not being the
+               same evenness in work: I think the maximum standard too high, and that it would be
+               best to fix a lower standard for each set, and to work all the boys up to it; the
+               elementary work was good: progress has been made in Euclid and Algebra.</p>
+            <p>In French, Set I. did well, but unevenly, some boys being far ahead of others. To Set
+               II. the same remark applies. The Grammar was excellent, but the Translation weak. The
+               Pronunciation of those boys whom I examined vivâ voce is very good.</p>
+            <p> With regard to Classical Subjects: - In Grammar, the papers were throughout the
+               School well answered: Div. I. showed a marked advance in critical knowledge: Div. II
+               failed to give the English of the different examples; their parsing was very good.
+                  <persName key="894">Olliver</persName> in Div. I., <persName key="675">Thomson</persName> in Div. II., and <persName key="80920">Tottenham</persName> in
+               Div. III., were particularly good in Greek Grammar. </p>
+            <p>In Latin Translation, all Divisions did well. In Div. I., <persName key="695">Mackenzie</persName> must be more careful. In Div. II., <persName>Bowring</persName>, <persName key="675">Thomson</persName>, <persName key="884">Watson</persName>, and <persName>Hichens</persName>. made good attempts at
+               Unseen. <persName key="547">Palk</persName> spoiled a capital paper by omitting this.
+               In Div. III., <persName key="80903">Pilcher</persName> is to be particularly
+               commended.</p>
+            <p>In Greek Translation, Div. I. A. did satisfactorily; <persName key="695">Mackenzie</persName> showed great improvement and <persName key="1020">Waterhouse</persName> did a good paper. Div. II. have made progress.</p>
+            <p>The Unseen Translation paper in Div. I., was done much better than last time.
+                  <persName key="894">Olliver</persName>&#x2019;s paper was remarkably good.</p>
+            <p>The Latin Verses were poor. Div. III. has has improved in Prosody rules.</p>
+            <p>The Latin Prose, throughout all Divisions, shows marked improvement. <persName key="894">Olliver</persName>, in Div. I., did a capital piece, as did <persName key="675">Thomson</persName>, in Div. II., and <persName key="80903">Pilcher</persName>, in Div. III. More progress has been made in this subject than
+               in any other.</p>
+            <p>The Greek Prose of Div. I. quite came up to my expectations, and showed improvement,
+               the competition being very close.</p>
+            <p>I have been struck by the good work done throughout the examination by <persName key="894">Olliver</persName>, and with the progress made since last Trials by
+                  <persName key="547">Palk</persName> and <persName key="911">Pearse</persName>.</p>
+            <p>To sum up, there has been the same neatness and correct spelling displayed as on
+               former occasions; the Standard has been as high, but the work, generally, has not
+               been so level as at last Trials, when the evenness was particularly noticeable. It
+               would be well not to raise the standard of work to suit any particular boys, but
+               having fixed a maximum for the Term to work each individual boy up to it. The
+               standard of work now, is quite high enough for boys of this age, and the Head and his
+               Staff have reason to congratulate themselves on the result of their teaching,</p>
+            <p>(Signed)</p>
+            <p>
+               <persName key="857">F. W. Macdonald</persName>, M.A., Oxon,</p>
+            <p>Vicar of <placeName key="80772">Stapleford</placeName> and <placeName key="80773">Berwick</placeName>, Wilts. </p>
+            <p>
+               <note type="com">Zwischen den Seiten, nach dem letzten Eintrag, liegt eine Beilage: In
+                  die Umschlagseiten eines Cahierheftes sind zwei Programme des Schulchores
+                  eingeklebt. Vorne steht in Kesslers Hand: &#x201e;Memoires de Harry de Kessler&#x201c;. Auf die
+                  Innenseite sind zwei Wappen eingeklebt. Das erste zeigt das Schulwappen, darunter
+                  von Kessler: &#x201e;Arms of the school&#x201c;. Das zweite ein Piktogramm von einem Umschlag,
+                  darunter: &#x201e;little fantaisie crest Mamma sends me on a letter&#x201c;.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

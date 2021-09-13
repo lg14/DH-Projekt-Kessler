@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="274013">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49069">Hamburg</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1882-11-15">15.11.1882</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>15.11.1882 Mittwoch</head>
+            <p>
+               <placeName type="write" key="49069">Hamburg</placeName>. November. 15. 1882</p>
+            <p> Got up early. The ice on the piece of ground we flooded last night is quite useless
+               and bad, so I smashed it up. When I came home from school I saw the <persName key="1175">M. Andriez</persName> and <persName key="1155">Ward</persName> had
+               flooded the ground anew. The water froze almost as soon as it got to a standstill. A
+               Candidate was to come today as <persName key="1162">pastor Blümer</persName> was out
+               to superintend us as <persName key="1162">P. Blümer</persName> was out, so <persName key="1175">Andriez</persName> and I were making plans with <persName key="1156">Robert</persName>
+               <note type="reg">Blümer</note> how to tease him a little and as
+                  <persName key="1155">Ward</persName> came into the room we told <persName key="1156">Robert</persName> to go away as we did not want his <persName key="1162">father</persName> to notice that we were all in the same room, and as
+               he would not go, <persName key="1175">Andriez</persName> told him we were going to
+               speak French; he went away in a rage swore he would tell his <persName key="1162">father</persName> who would beat <persName key="1155">Ward</persName>, <persName key="1175">Andriez</persName> and me and at last went and streaked to his
+                  mother<note type="reg">
+                  <persName key="1163">Auguste</persName>
+               </note>.
+                  <persName key="1155">Ward</persName> in trying to show off his skill in balancing
+               bottles, after nearly breaking his nose, broke a beer bottle. Among other things that
+               happened at tea to night there was a dearth of bread in which <persName key="1156">Robert</persName> tried to be very important, and bustled about with a face as
+               long as the <persName key="1162">pastors</persName> umbrella, which is a woollen one
+               and of a pretty good size.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="194633">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-08">8.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>8.8.1885 Samstag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi</placeName>
+               <orgName key="49369">Kaltbad</orgName>. August 8. 185.
+      Saturday.</p>
+            <p>First worked a little in <persName key="103">Mamma&#x2019;s</persName> room. Then we had to
+      déménagé to upstarirs 48 and 49. I have got 78. Afterwards
+      walked with <persName key="81659">Dubos&#x2019;s</persName> to the
+      Känzli and down on the road to <placeName key="49377">Zug</placeName>.
+      In coming back I found quite a young little bird dying of hunger by the
+      wayside. So I walked quickly home with it on my pocket handkerchief. It all the
+      time looked at me so piteously and opened its poor little mouth quite wide to
+      have something to eat. When I came home I directly gave it some bread crumb and
+      milk which it took to very well and devoured. In the afternoon it hopped about
+      quite happily. After the music at about 3.45 we <persName key="103">Mamma</persName>
+               <persName key="1863">Valentin</persName> and <persName key="81659">Dubos</persName> started for the Rothstotz which
+      we got up allright and then came home by the First. I then
+      sat on the balcony and read <name type="work" key="28748">Madame de Minelko</name> and the
+      <name type="work" key="28730">Roman d&#x2019;une Sensitive</name> while
+      <persName key="103">Mamma</persName> wrote the last chapter of
+      <name type="work" key="28748">Mad. de. M.</name> of which she had also greatly improved the
+      first this morning. Had beautiful Alpenglühen in the evening of which
+      <persName key="103">Mamma</persName> also wrote a description for
+      the Lys. In the evening after Supper went with
+      <persName key="81659">Dubos&#x2019;s</persName> to the Känzli to
+      see the illumination of the lake, which was not very beautiful</p>
+         </div>
+      </body>
+   </text>
+</TEI>

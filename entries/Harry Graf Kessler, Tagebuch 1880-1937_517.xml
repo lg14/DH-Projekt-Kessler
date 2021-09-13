@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Tagebuch.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert zu EdView_Tagebuch.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="153504">
+         <titleStmt>
+            <title>Harry Graf Kessler, Tagebuch 1880-1937</title>
+            <respStmt>
+               <resp/>
+               <orgName key="71990" cert="high">Deutsches Literaturarchiv Marbach</orgName>
+               <persName key="71920" role="editor" cert="high">Roland S. Kamzelak</persName>
+               <persName key="81247" role="editor" cert="high">Ulrich Ott</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>Dieses Dokument ist ggf. rechtlich geschützt. Bitte informieren Sie sich in der Rubrik Rechte des Paratextes.</p>
+               <ab type="Kürzel">HGKTA</ab>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="location">
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>
+            </ab>
+            <ab type="date">
+               <date when="1885-08-03">3.8.1885</date>
+            </ab>
+            <ab type="role">
+               <persName key="8299" role="author">Harry Graf Kessler</persName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990" role="property">Deutsches Literaturarchiv Marbach</institution>
+                     <repository/>
+                     <idno>A:Kessler</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type">di</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                        <ab type="physEntity">12.11.1881 &#x2013; 7.9.1887</ab>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc/>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">Englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>3.8.1885 Montag</head>
+            <p>
+               <placeName type="write" key="49289">Rigi Kaltbad</placeName>. August 3 1885 Monday.</p>
+            <p>Took my bath before breakfast and after breakfast sat by the music and read. Then
+               started for First with <persName key="104">Gee</persName>. But she declared she was
+               dead tired as soon as we had gone a few steps; so I went home and took a walk to the
+               Känzeli and a little further down with <persName key="103">Mamma</persName>. At
+               dinner made acquaintance of young <persName key="7851">Swabach</persName>
+               <note type="reg">Paul</note>. His parents are the Swabachers<note type="reg">
+                  <persName key="18297">Leonie</persName> und <persName key="18296">Julius</persName>
+               </note> of the <name type="work" key="80987">société de Berlin </name>. He told me
+                  <persName key="1857">Gerard</persName> the sécrétaire of <persName key="1858">the
+                  Empress</persName>
+               <note type="reg">Augusta</note> and <persName key="1859">Madame
+                  Novikoff</persName> had written it. His brother is a professor or is going to be
+               one; that I could not make out. They live 7 Wilhelmsplatz in the Palais
+                  Radziwill<note type="reg">
+                  <placeName key="58186">Reichskanzlerpalais</placeName>
+               </note>; so they must be very rich. They are Jews
+               as <persName key="103">Mamma</persName> says. In the afternoon played cards and
+               billards with <persName key="7851">Swabach</persName> and an American. After Dinner I
+               numérohéd <name type="work" key="28586">Roland</name>
+               <note type="reg">
+                  <persName key="103">Kessler</persName>
+               </note> and read the disclosure scene in the
+               piece, which <persName key="103">Mamma</persName> has very much improved. <persName key="7851">S.</persName> says <persName key="1857">Gérard</persName> wrote the
+               whole information containedined in the <name type="work" key="80987">Société de
+                  Berlin</name> to <persName key="9594">Gambetta</persName> in private letters and
+               that when <persName key="9594">Gambetta</persName> died <persName key="17472">Madame
+                  Adam</persName> bought the letters and out of the information fabriquéd the <name type="work" key="80987">book</name>. Enfin, so many people; so many versions, like
+               about <name type="work" key="28586">Rol.</name> which <persName key="11532">Mad. de
+                  Kolemine</persName>, <persName key="4200">Princess Ratzwill</persName>; <persName key="1862">Princess Serge Lydie Puschkoff</persName> and dozens of others were
+               said in the papers to have written. Although this book has had such success
+                  <placeName key="67188">Lemarre</placeName> will not pay anything and always evades
+               the question when asked.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

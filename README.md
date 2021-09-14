@@ -25,7 +25,7 @@ Enthält alle Tagebucheinträge des Korpus als einzelne XML-Dateien.
 
 Enthält die vollständige und die gekürzte Registerdatei zur Digitalen Edition.
 
-- harry-graf-kessler-neo4j-2021-08-30T132704.dump:
+- harry-graf-kessler-neo4j-2021-09-14T144240.dump:
 
 Ein Dump der entstandenen Datenbank zu Backup-Zwecken.
 
